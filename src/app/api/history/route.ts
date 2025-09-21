@@ -65,10 +65,17 @@ function parseCSV(csvText: string): Record<string, string>[] {
     }
     values.push(current.trim());
     
-    if (values.length >= headers.length) {
+    // 引用符を除去
+    const cleanedValues = values.map(value => 
+      value.startsWith('"') && value.endsWith('"') 
+        ? value.slice(1, -1) 
+        : value
+    );
+    
+    if (cleanedValues.length >= headers.length) {
       const row: Record<string, string> = {};
       headers.forEach((header, index) => {
-        row[header] = values[index] || '';
+        row[header] = cleanedValues[index] || '';
       });
       data.push(row);
     }
@@ -85,13 +92,13 @@ function parseMembers(memberText: string): Member[] {
     .map(member => member.trim())
     .filter(member => member && member !== '')
     .map(member => {
-      // 楽器記号を抽出（統合された役職に対応：Tb/MC, Tp/MC等）
-      const instrumentMatch = member.match(/^([★◆●◎]*)([A-Za-z]+(?:\/[A-Za-z]+)*)/);
+      // 楽器記号を抽出（統合された役職と中点記号に対応：Tb/MC, B・Vo等）
+      const instrumentMatch = member.match(/^([★◆●◎]*)([A-Za-z]+(?:\/[A-Za-z]+|・[A-Za-z]+)*)/);
       const instrument = instrumentMatch ? instrumentMatch[2] : '';
       const symbols = instrumentMatch ? instrumentMatch[1] : '';
       
       // 名前を抽出（楽器記号の後）
-      const nameMatch = member.match(/^[★◆●◎]*[A-Za-z]+(?:\/[A-Za-z]+)*\s+([^（]+)/);
+      const nameMatch = member.match(/^[★◆●◎]*[A-Za-z]+(?:\/[A-Za-z]+|・[A-Za-z]+)*\s+([^（]+)/);
       const name = nameMatch ? nameMatch[1].trim() : '';
       
       // 大学情報を抽出
@@ -161,6 +168,7 @@ export async function GET() {
     
     // CSVをパース
     const rawData = parseCSV(csvContent);
+    
     
     // データを正規化
     const normalizedData = normalizeData(rawData);
