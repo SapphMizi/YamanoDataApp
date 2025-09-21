@@ -85,13 +85,13 @@ function parseMembers(memberText: string): Member[] {
     .map(member => member.trim())
     .filter(member => member && member !== '')
     .map(member => {
-      // 楽器記号を抽出
-      const instrumentMatch = member.match(/^([★◆●◎]*)([A-Za-z]+)/);
+      // 楽器記号を抽出（統合された役職に対応：Tb/MC, Tp/MC等）
+      const instrumentMatch = member.match(/^([★◆●◎]*)([A-Za-z]+(?:\/[A-Za-z]+)*)/);
       const instrument = instrumentMatch ? instrumentMatch[2] : '';
       const symbols = instrumentMatch ? instrumentMatch[1] : '';
       
       // 名前を抽出（楽器記号の後）
-      const nameMatch = member.match(/^[★◆●◎]*[A-Za-z]+\s+([^（]+)/);
+      const nameMatch = member.match(/^[★◆●◎]*[A-Za-z]+(?:\/[A-Za-z]+)*\s+([^（]+)/);
       const name = nameMatch ? nameMatch[1].trim() : '';
       
       // 大学情報を抽出
