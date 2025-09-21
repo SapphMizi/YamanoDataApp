@@ -47,7 +47,7 @@ function parseCSV(csvText: string): Record<string, string>[] {
     const line = lines[i].trim();
     if (!line) continue;
     
-    const values = [];
+    const values: string[] = [];
     let current = '';
     let inQuotes = false;
     
