@@ -47,37 +47,43 @@ function parseCSV(csvText: string): Record<string, string>[] {
     const line = lines[i].trim();
     if (!line) continue;
     
-    const values: string[] = [];
-    let current = '';
-    let inQuotes = false;
-    
-    for (let j = 0; j < line.length; j++) {
-      const char = line[j];
+    try {
+      const values: string[] = [];
+      let current = '';
+      let inQuotes = false;
       
-      if (char === '"') {
-        inQuotes = !inQuotes;
-      } else if (char === ',' && !inQuotes) {
-        values.push(current.trim());
-        current = '';
-      } else {
-        current += char;
+      for (let j = 0; j < line.length; j++) {
+        const char = line[j];
+        
+        if (char === '"') {
+          inQuotes = !inQuotes;
+        } else if (char === ',' && !inQuotes) {
+          values.push(current.trim());
+          current = '';
+        } else {
+          current += char;
+        }
       }
-    }
-    values.push(current.trim());
-    
-    // 引用符を除去
-    const cleanedValues = values.map(value => 
-      value.startsWith('"') && value.endsWith('"') 
-        ? value.slice(1, -1) 
-        : value
-    );
-    
-    if (cleanedValues.length >= headers.length) {
-      const row: Record<string, string> = {};
-      headers.forEach((header, index) => {
-        row[header] = cleanedValues[index] || '';
-      });
-      data.push(row);
+      values.push(current.trim());
+      
+      // 引用符を除去
+      const cleanedValues = values.map(value => 
+        value.startsWith('"') && value.endsWith('"') 
+          ? value.slice(1, -1) 
+          : value
+      );
+      
+      if (cleanedValues.length >= headers.length) {
+        const row: Record<string, string> = {};
+        headers.forEach((header, index) => {
+          row[header] = cleanedValues[index] || '';
+        });
+        data.push(row);
+      }
+    } catch (error) {
+      // パースエラーの行をスキップ
+      console.warn(`CSV line ${i} parse error:`, error);
+      continue;
     }
   }
   
@@ -159,12 +165,24 @@ function normalizeData(data: Record<string, string>[]): YamanoHistoryEntry[] {
 
 export async function GET() {
   try {
-    // CSVファイルを読み込み（SJIS形式）
+    // CSVファイルを読み込み（文字エンコーディング自動検出）
     const csvPath = path.join(process.cwd(), 'src/app/Yamano History.csv');
     const csvBuffer = fs.readFileSync(csvPath);
     
-    // SJISからUTF-8に変換
-    const csvContent = iconv.decode(csvBuffer, 'shift_jis');
+    // 文字エンコーディングを試行
+    let csvContent: string;
+    try {
+      // まずUTF-8として試行
+      csvContent = csvBuffer.toString('utf-8');
+    } catch {
+      try {
+        // SJISとして試行
+        csvContent = iconv.decode(csvBuffer, 'shift_jis');
+      } catch {
+        // 最後の手段としてLatin-1
+        csvContent = csvBuffer.toString('latin1');
+      }
+    }
     
     // CSVをパース
     const rawData = parseCSV(csvContent);
