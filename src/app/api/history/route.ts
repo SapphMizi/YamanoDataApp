@@ -38,7 +38,7 @@ interface YamanoHistoryData {
 }
 
 // CSVをパースする関数
-function parseCSV(csvText: string): any[] {
+function parseCSV(csvText: string): Record<string, string>[] {
   const lines = csvText.split('\n');
   const headers = lines[0].split(',');
   const data = [];
@@ -66,7 +66,7 @@ function parseCSV(csvText: string): any[] {
     values.push(current.trim());
     
     if (values.length >= headers.length) {
-      const row: any = {};
+      const row: Record<string, string> = {};
       headers.forEach((header, index) => {
         row[header] = values[index] || '';
       });
@@ -108,7 +108,7 @@ function parseMembers(memberText: string): Member[] {
 }
 
 // データを正規化
-function normalizeData(data: any[]): YamanoHistoryEntry[] {
+function normalizeData(data: Record<string, string>[]): YamanoHistoryEntry[] {
   return data.map(row => {
     // 空の行をスキップ
     if (!row.YEAR || !row.BAND) return null;
