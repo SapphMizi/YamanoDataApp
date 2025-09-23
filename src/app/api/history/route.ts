@@ -165,22 +165,21 @@ function normalizeData(data: Record<string, string>[]): YamanoHistoryEntry[] {
 
 export async function GET() {
   try {
-    // CSVファイルを読み込み（文字エンコーディング自動検出）
+    // CSVファイルを読み込み（Shift JIS形式）
     const csvPath = path.join(process.cwd(), 'src/app/Yamano History.csv');
     const csvBuffer = fs.readFileSync(csvPath);
     
-    // 文字エンコーディングを試行
+    // Shift JISからUTF-8に変換（複数のエンコーディングを試行）
     let csvContent: string;
     try {
-      // まずUTF-8として試行
-      csvContent = csvBuffer.toString('utf-8');
-    } catch {
+      csvContent = iconv.decode(csvBuffer, 'shift_jis');
+    } catch (error) {
+      console.warn('Shift JIS decode failed, trying CP932:', error);
       try {
-        // SJISとして試行
-        csvContent = iconv.decode(csvBuffer, 'shift_jis');
-      } catch {
-        // 最後の手段としてLatin-1
-        csvContent = csvBuffer.toString('latin1');
+        csvContent = iconv.decode(csvBuffer, 'cp932');
+      } catch (error2) {
+        console.warn('CP932 decode failed, trying SJIS:', error2);
+        csvContent = iconv.decode(csvBuffer, 'sjis');
       }
     }
     
