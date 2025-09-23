@@ -19,8 +19,8 @@ export default function Home() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        console.log('Fetching data from /api/history...');
-        const response = await fetch('/api/history');
+        console.log('Fetching data from /history.json...');
+        const response = await fetch('/history.json', { cache: 'no-store' });
         console.log('Response status:', response.status);
         
         if (!response.ok) {

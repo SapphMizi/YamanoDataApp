@@ -1,0 +1,5867 @@
+{
+  "stats": {
+    "totalYears": 46,
+    "yearRange": {
+      "start": 1980,
+      "end": 2024
+    },
+    "bands": [
+      "The New Wave Jazz Orchestra",
+      "日本E軍 Monkey Club Jazz Orchestra"
+    ],
+    "totalMusics": 164,
+    "totalMembers": 848
+  },
+  "data": [
+    {
+      "year": 2024,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "9位／学バンアワード",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2024.jpg",
+      "musics": [
+        "This Could Be The Start of Something Big (Count Basie)",
+        "Lady Carolyn (Count Basie)",
+        "Rat Race (Count Basie)"
+      ],
+      "url1": "https://www.youtube.com/watch?v=VDGArAVpHzE",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "大橋 祐菜",
+          "university": "大阪音楽大 音楽1"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "竹中 光",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "澤井 凛",
+          "university": "大阪公立大 現代システム2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "藤原 綾音",
+          "university": "大阪大 工1"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "藤井 佳穂",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "足立 和志",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岡本 祥孝",
+          "university": "関西学院大 商2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "梶田 百恵",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tp",
+          "name": "吉山 孟瑠",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "大迫 日和",
+          "university": "大阪音楽大 音楽2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "前川 楽",
+          "university": "関西大 システム理工1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb/MC",
+          "name": "鈴木 洸",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "寺野 良佑",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "真部 寛之",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "伊藤 瑞希",
+          "university": "神戸女学院大 音楽2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "B",
+          "name": "八馬 梓乃",
+          "university": "大阪大 法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "佐竹 亮弥",
+          "university": "大阪大 文3"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "13位",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2023.jpg",
+      "musics": [
+        "A Square At The Roundtable (Count Basie)",
+        "How Am I To Know (Count Basie)",
+        "What's New (Frank Foster)",
+        "Basie (Count Basie)"
+      ],
+      "url1": "https://www.youtube.com/watch?v=AmnXRpxeacg",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "古川 千鶴",
+          "university": "神戸大 工3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "園 恵太朗",
+          "university": "大阪経済大 情報社会2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "竹中 光",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "TSx",
+          "name": "亀島 彩加",
+          "university": "関西大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "藤井 佳穂",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "江口 多聞",
+          "university": "甲南大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp/MC",
+          "name": "足立 和志",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "吉山 孟瑠",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "守口 綾乃",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "井原 慧太郎",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "田中 悠惟",
+          "university": "佛教大 教育3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "宮下 希未",
+          "university": "近畿大 経営2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "大迫 日和",
+          "university": "大阪音楽大 音楽1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "土屋 優斗",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "田村 美登",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "山下 晴生",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "八馬 梓乃",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "野村 壮之介",
+          "university": "大阪大 工3"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "9位／学バンアワード",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2022.jpg",
+      "musics": [
+        "Avenue C (Count Basie)",
+        "Lullaby of Birdland (Count Basie)",
+        "I Cover The Waterfront (Count Basie)",
+        "The Heat's On (Count Basie)"
+      ],
+      "url1": "https://www.youtube.com/watch?v=_-In2p8CUs4",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "澤田 美晴",
+          "university": "大阪大 医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "杉本 峰香",
+          "university": "立命館大 総合心理2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "TSx",
+          "name": "河尻 彩矢",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "亀島 彩加",
+          "university": "関西大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "園 恵太朗",
+          "university": "大阪経済大 情報社会1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "筒井 あかり",
+          "university": "大阪大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "宮下 希未",
+          "university": "近畿大 経営1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb/MC",
+          "name": "土屋 優斗",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "BTb",
+          "name": "井野 涼介",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森園 凉斗",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "江口 多聞",
+          "university": "甲南大 文1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "高橋 実里",
+          "university": "関西学院大 社会3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "井原 慧太郎",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "守口 綾乃",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "西脇 実佑",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "前田 真治",
+          "university": "大阪大 工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "村上 昌弘",
+          "university": "大阪大 法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "野村 壮之介",
+          "university": "大阪大 工2"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2021.jpg",
+      "musics": [
+        "Swing Shift (Count Basie)",
+        "Hittin' 12 (Count Basie)"
+      ],
+      "url1": "https://www.youtube.com/watch?v=m60BEMeENnM",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "石脇 陽太",
+          "university": "大阪音楽大 音楽2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "澤田 美晴",
+          "university": "大阪大 医2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "楠山 弘基",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "河尻 彩矢",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "BSx",
+          "name": "濱 拓弥",
+          "university": "大阪大 基礎工4"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "青塚 皓平",
+          "university": "大阪大 工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "由良 建人",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "山下 舞花",
+          "university": "大阪大 医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "井野 涼介",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "佐々木 穂乃香",
+          "university": "甲南大 マネジメント創造3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森園 凉斗",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "亀山 日向",
+          "university": "大阪大 外国語4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小野 佑太",
+          "university": "大阪大 法4"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "西脇 実佑",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "前田 真治",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "富永 凉",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "伊藤 裕貴",
+          "university": "大阪大 経済4"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "ベスト三木敏悟賞",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2020.jpg",
+      "musics": [
+        "Why Not? (Count Basie)",
+        "Give Me The Simple Life (Ella&Ernie Heckscher)"
+      ],
+      "url1": "https://youtu.be/ESk-qemw2o0",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "藤本 隼平",
+          "university": "大阪音楽大 音楽3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "山根 まゆ",
+          "university": "神戸女学院大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "岡田 星",
+          "university": "大阪音楽大 音楽3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "楠山 弘基",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "●",
+          "instrument": "BSx",
+          "name": "濱 拓弥",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "青塚 晧平",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "由良 健人",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "山下 舞花",
+          "university": "大阪大 医2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "井野 涼介",
+          "university": "大阪大 工1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "中村 葉月",
+          "university": "大阪音楽大 音楽2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "吉川 七穂",
+          "university": "大阪音楽大 音楽1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "田中 快季",
+          "university": "甲南大 経営2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小野 佑太",
+          "university": "大阪大 法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "橋本 涼",
+          "university": "大阪大 薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "増田 颯人",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "富永 涼",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B・Vo",
+          "name": "森 妃名",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Ds",
+          "name": "岸本 晃司",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "山根 まゆ",
+          "university": "神戸女学院大 文3"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "奨励賞 (10位)",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2019.jpg",
+      "musics": [
+        "Fancy Meeting You (Count Basie)",
+        "How Am I to Know (Count Basie)",
+        "Here's That Rainy Day (Count Basie)",
+        "Little Pony (Count Basie)"
+      ],
+      "url1": "https://youtu.be/OosbQIjMbqc",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "藤本 隼平",
+          "university": "大阪音楽大 音楽2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "山根 まゆ",
+          "university": "神戸女学院大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "永田 右京",
+          "university": "大手前大 総合文化4"
+        },
+        {
+          "symbols": "●",
+          "instrument": "TSx",
+          "name": "下條 澪子",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "濱 拓弥",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "亀井 茜",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "細川 涼介",
+          "university": "大阪音楽大 音楽3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "青塚 皓平",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "細川 波留佳",
+          "university": "大阪大 人間科4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "吉田 朋美",
+          "university": "大阪大 理4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "田中 快季",
+          "university": "甲南大 経営1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "佐々木 穗乃香",
+          "university": "甲南大 マネジメント創造1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "橋本 涼",
+          "university": "大阪大 薬2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "田辺 初希",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "高山 修一朗",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "細川 遥未",
+          "university": "甲南大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "安達 久美",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "橋口 公彦",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "青塚 皓平",
+          "university": "大阪大 工2"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "4位",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2018.jpg",
+      "musics": [
+        "Sixteen men Swingin’ (Count Basie)",
+        "Down For Double (Count Basie)",
+        "All Heart (Count Basie)",
+        "Airmail Special (Count Basie)"
+      ],
+      "url1": "https://youtu.be/Qv5Xhd4mXLY",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "小寺 拓望",
+          "university": "大阪音楽大 音楽4"
+        },
+        {
+          "symbols": "★",
+          "instrument": "ASx",
+          "name": "池川 風哉",
+          "university": "大阪音楽大 音楽3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "永田 右京",
+          "university": "大手前大 総合文化3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "下條 澪子",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "BSx",
+          "name": "中田 美波",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "三原 雅司",
+          "university": "甲南大 マネジメント創造3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "廣常 絵梨奈",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "細川 涼介",
+          "university": "大阪音楽大短期大 音楽2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "細川 波留佳",
+          "university": "大阪大 人間科 3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "永野 雄己",
+          "university": "大阪音楽大 音楽1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "右京 莉規",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "田辺 初希",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "吉田 朋美",
+          "university": "大阪大 理4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "堀内 菜津紀",
+          "university": "大阪大 外国語 3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "高山 修一朗",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "金澤 知樹",
+          "university": "大阪大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "安達 久美",
+          "university": "大阪大 外国語 2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "豊嶋 耕平",
+          "university": "大阪大 人間科 3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "細川 涼介",
+          "university": "大阪音楽大短期大 音楽 2"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "審査員賞 (9位)",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2017.jpg",
+      "musics": [
+        "Out The Window (Count Basie)",
+        "Lullaby Of Birdland (Count Basie)",
+        "Sunset Glow (Count Basie)",
+        "Why Not (Count Basie)"
+      ],
+      "url1": "https://youtu.be/d_PFsRzx1PA",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "上島 のどか",
+          "university": "関西大 社会3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "池 川 風哉",
+          "university": "大阪音楽大 音楽2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "TSx",
+          "name": "小畑 深月",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "川瀬 瑛崇",
+          "university": "大阪大 薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "中田 美波",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "河内 花子",
+          "university": "大阪大 外国語4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "鈍宝 理紗子",
+          "university": "大阪大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "廣常 絵梨奈",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "細川 波留佳",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "右京 莉規",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "河田 龍仁",
+          "university": "関西学院大 経済4"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "吉田 朋美",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "堀内 菜津紀",
+          "university": "大阪大 外国語 2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "北野 可菜",
+          "university": "大阪音楽大 音楽2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "松田 聡",
+          "university": "大阪大 基礎工4"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "G",
+          "name": "樋口 太地",
+          "university": "大阪大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "石原 俊彦",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "池川 風哉",
+          "university": "大阪音楽大 音楽2"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "日刊スポーツ賞(6位）学バンアワード",
+      "soloPrize": "安藤（Ts)最優秀ソリスト賞",
+      "imagePath": "NWJO_pics/2016.jpg",
+      "musics": [
+        "A Square at The Roundtable (Count Basie)",
+        "Tickle Toe (Count Basie)",
+        "Moonlight Becomes You (Count Basie)",
+        "Basie (Count Basie)"
+      ],
+      "url1": "https://youtu.be/9VXNBmPY2xo",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "山内 亨祐",
+          "university": "大阪大 医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "上島 のどか",
+          "university": "関西大 社会2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "安藤 達也",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "小畑 深月",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "村上 元汰",
+          "university": "甲南大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "河内 花子",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "山田 怜美",
+          "university": "大阪大 法3"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "藤本 紗也加",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "佐野 智咲",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "山本 聖",
+          "university": "近畿大 農3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "吉田 朋美",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "大仲 礼晃",
+          "university": "大阪大 法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "土谷 もも",
+          "university": "関西大 法4"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "北野 可菜",
+          "university": "大阪音楽大 音楽2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "B",
+          "name": "谷口 悠",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "樋口 太地",
+          "university": "大阪大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "石原 俊?",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "村上 元汰",
+          "university": "甲南大 文3"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "特別賞(7位)",
+      "soloPrize": "穐山（Ts)優秀ソリスト賞",
+      "imagePath": "NWJO_pics/2015.jpg",
+      "musics": [
+        "Avenue C (Count Basie)",
+        "How Am I to Know (Count Basie)",
+        "Here's That Rainy Day (Count Basie)",
+        "This Could Be The Started Something Big (Count Basie)"
+      ],
+      "url1": "https://youtu.be/yRTcANSg0ms",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "山内 亨祐",
+          "university": "大阪大 医2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "村上 元汰",
+          "university": "甲南大 文2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "穐山 凌",
+          "university": "大阪大 歯3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "安藤 達也",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "池上 佑里恵",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "岡崎 優衣",
+          "university": "大阪大 法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "山田 怜美",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "藤本 紗也加",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "原田 稔也",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "山本 聖",
+          "university": "近畿大 農2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "大仲 礼晃",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "岩本 真佳",
+          "university": "大阪大 医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小椋 紗恵",
+          "university": "大阪大 薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "伊藤 優作",
+          "university": "大阪大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "谷口 悠",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "藤原 雅之",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "亀山 修吾",
+          "university": "大阪大 工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "大仲 礼晃",
+          "university": "大阪大 法2"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "さいたま市長賞（4位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2014.jpg",
+      "musics": [
+        "Dinner With Friends (Count Basie)",
+        "Lady Is A Trump (Count Basie)",
+        "The Gypsy (Quincy Jones)",
+        "Little Pony (Count Basie)"
+      ],
+      "url1": "https://www.youtube.com/watch?v=7HDbKfCwoqI",
+      "url2": "https://www.youtube.com/watch?v=0X5xcVwBSVs",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "西谷 菜保",
+          "university": "大阪市立大 文3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Asx",
+          "name": "高見 翔馬",
+          "university": "大阪工業大 環境工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "毛戸 将太",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "山本 千秋",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "穐山 凌",
+          "university": "大阪大 歯2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "高橋 幸江",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "岡崎 優衣",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "田崎 榛菜",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "糠野 由布子",
+          "university": "武庫川女子大 生活環境4"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "松本 拓馬",
+          "university": "甲南大 知能情報3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "青木 奈美",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岩本 真佳",
+          "university": "大阪大 医2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "長田 奈幹",
+          "university": "大阪大 歯3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "山本 聖",
+          "university": "近畿大 農1"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "岡田 麻祐子",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "中川 亮",
+          "university": "大阪大 工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "大野 航平",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "亀山 修吾",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "毛戸 将太",
+          "university": "大阪大 外国語2"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "日刊スポーツ賞(6位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2013.jpg",
+      "musics": [
+        "Swing Shift（Untitled Stomp) (Count Basie)",
+        "This Way (Count Basie)",
+        "I Cover The Waterfront (Count Basie)",
+        "Fancy Meeting You (Count Basie)"
+      ],
+      "url1": "http://youtu.be/21yc5CNGSgY",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "脇坂 友詞",
+          "university": "大阪大 医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "高見 翔馬",
+          "university": "大阪工業大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "永田 理津子",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "山本 千秋",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "穐山 凌",
+          "university": "大阪大 歯1"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "松本 頌平",
+          "university": "大阪大 医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "高橋 幸江",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "田崎 榛菜",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "BTb",
+          "name": "澤井 彩",
+          "university": "大阪大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小倉 直也",
+          "university": "同志社大 文化情報3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "青木 奈美",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "長田 奈幹",
+          "university": "大阪大 歯2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "松本 拓馬",
+          "university": "甲南大 知能情報2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "岩本 佳菜子",
+          "university": "大阪大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "中川 亮",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "●",
+          "instrument": "G",
+          "name": "伊藤 健",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "高井 統太",
+          "university": "同志社大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "高見 翔馬",
+          "university": "大阪工業大 工2"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "Inter FM賞（5位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2012.jpg",
+      "musics": [
+        "7th Avenue Express (Count Basie)",
+        "All Of Me (Count Basie)",
+        "I Got It Bad (Count Basie)",
+        "Airmail Special (Count Basie)"
+      ],
+      "url1": "http://www.youtube.com/watch?v=iHG9GbW0HNI",
+      "url2": "http://www.youtube.com/watch?v=mV30udiuMGw",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "山口 裕太郎",
+          "university": "甲南大 文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "脇坂 友詞",
+          "university": "大阪大 医2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "渡邊 隆文",
+          "university": "同志社大 商4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "永田 理津子",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "山内 沙織",
+          "university": "大阪大 薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "矢野 弘樹",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "松本 頌平",
+          "university": "大阪大 医2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "大島 紗織",
+          "university": "同志社女子大 表象文化3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "BTb",
+          "name": "西村 祐一",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "吾妻 陽介",
+          "university": "甲南大 文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "國枝 詩織",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "酒井 敦",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小倉 直也",
+          "university": "同志社大 文化情報2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "山田 理恵",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "陣内 達弘",
+          "university": "大阪大 経済4"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "伊藤 健",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "佐藤 匠",
+          "university": "大阪大 基礎工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "小倉 直也",
+          "university": "同志社大 文化情報2"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "(17位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2011.jpg",
+      "musics": [
+        "Avenue C (Count Basie)",
+        "Stella By Starlight (Count Basie)",
+        "Basie (Count Basie)"
+      ],
+      "url1": "http://www.youtube.com/watch?v=bIY8r5MYh-g",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "伊藤 利浩",
+          "university": "同志社大 経済4"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "宮崎 裕規",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "渡邊 隆文",
+          "university": "同志社大 商3"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "TSx",
+          "name": "隅倉 麻子",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "蓮池 友香",
+          "university": "大阪大 薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "矢野 弘樹",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "藤川 結華",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "大島 紗織",
+          "university": "同志社女子大 表象文化2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "西村 祐一",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "吾妻 陽介",
+          "university": "甲南大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "酒井 敦",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "山名 輝彦",
+          "university": "大阪工業大 情報科2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "上馬場 雄介",
+          "university": "大阪大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "篠田 肇",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "山田 理惠",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "秦 伸之介",
+          "university": "大阪大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "前川 陽平",
+          "university": "大阪大 法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "佐藤 匠",
+          "university": "大阪大 基礎工3"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "日刊スポーツ賞(6位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2010.jpg",
+      "musics": [
+        "How High The Moon (Count Basie)",
+        "T.V.Time (Count Basie)",
+        "Spring Is Here (Count Basie)",
+        "Dum Dum (Count Basie)"
+      ],
+      "url1": "http://www.youtube.com/watch?v=ubnfQlRCoF4",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "梅田 康成",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "佐藤 大祐",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "寺谷 隼紀",
+          "university": "大阪大 法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "隅倉 麻子",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "古林 修平",
+          "university": ""
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "丸田 弥生",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "梶村 有花",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "藤川 結華",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "BTb",
+          "name": "山田 佳周",
+          "university": "大阪大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "吾妻 陽介",
+          "university": "甲南大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "竹内 雄記",
+          "university": "同志社大 経済3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "久木田 亮",
+          "university": "大阪大 歯3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "上馬場 雄介",
+          "university": "大阪大 経済2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "井田 陽子",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "横田 純己",
+          "university": "大阪大 医4"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "原田 裕史",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "佐藤 匠",
+          "university": "大阪大 基礎工2"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "特別賞(7位)",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2009.jpg",
+      "musics": [
+        "Deacon～Corner Pocket～Magic Flea (Count Basie)",
+        "Speaking Of Sounds (Count Basie)",
+        "Whirly Bird (Count Basie)"
+      ],
+      "url1": "https://youtu.be/_tQ4ab12YJc",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "梅田 康成",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "石井 真奈美",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "TSx",
+          "name": "大谷 浩史",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "寺谷 隼紀",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "古林 修平",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "宮木 佑輔",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "丸田 弥生",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "村井 絢香",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "山田 佳周",
+          "university": "大阪大 経済2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "大塚 康成",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "吾妻 陽介",
+          "university": "甲南大 文1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "梅田 千雪",
+          "university": "キャットミュージックカレッジ専門 音楽ビジネス専攻2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "永田 大地",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "久木田 亮",
+          "university": "大阪大 歯2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "P",
+          "name": "? 優香",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "B",
+          "name": "横田 純己",
+          "university": "大阪大 医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "塩出 剛士",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "名取 淳",
+          "university": "大阪大 経済2"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "久木田 亮",
+          "university": "大阪大 歯2"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "Swing Journal社賞(4位）",
+      "soloPrize": "當村（Ts)最優秀ソリスト賞",
+      "imagePath": "NWJO_pics/2008.jpg",
+      "musics": [
+        "Dinner With Friends (Count Basie)",
+        "Only You (Count Basie)",
+        "Basie (Count Basie)"
+      ],
+      "url1": "https://youtu.be/jNzzBijlO90",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "●",
+          "instrument": "ASx",
+          "name": "杉山 真吾",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Asx",
+          "name": "芳本 直樹",
+          "university": "大阪大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "當村 邦明",
+          "university": "大阪大 文5"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "市野瀬 沙紀",
+          "university": " 大阪芸術大 短期大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "大谷 浩史",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "平田 知恵",
+          "university": "大阪大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "宮木 佑輔",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "村井 絢香",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "松田 耕",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "外池 誠基",
+          "university": "甲南大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "梅田 千雪",
+          "university": "キャットミュージックカレッジ専門 音楽ビジネス専攻1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "田畑 佑",
+          "university": "関西学院大 法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "大塚 康成",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "? 優香",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "川崎 亮",
+          "university": "大阪大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "塩出 剛士",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "岩脇 智行",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "田畑 佑",
+          "university": "関西学院大 法2"
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "特別賞(7位)",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2007.jpg",
+      "musics": [
+        "Hittin'12 (Count Basie)",
+        "I Need To Be Bee'd With (Count Basie)",
+        "The Kid From Red Bank (Count Basie)"
+      ],
+      "url1": "https://youtu.be/p5gwaAfRs3Y",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "宇野 賢次郎",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "芳本 直樹",
+          "university": "大阪大 経済2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "小田 幸枝",
+          "university": "大阪教育大 教育2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "吉永 悠一郎",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "杉山 真吾",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tb",
+          "name": "大薮 真之祐",
+          "university": "大阪大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "浅井 諭",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "松本 千晴",
+          "university": "大阪大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "松田 耕",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "外池 誠基",
+          "university": "甲南大 経済2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森川 寧子",
+          "university": "大阪大 文2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tp",
+          "name": "長谷川 暢也",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "黒田 康嵩",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "P",
+          "name": "橋本 利恵",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "岡田 雄大",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "中西 健太",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "岩脇 智行",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "長谷川 暢也",
+          "university": "大阪大 基礎工2"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "優秀賞(3位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2006.jpg",
+      "musics": [
+        "Blues In Hoss Flat (Count Basie)",
+        "The More I See You (Count Basie)",
+        "Rat Race (Count Basie)"
+      ],
+      "url1": "https://youtu.be/CtkGqH6h9B8",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "丸橋 温美",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "楠原 澄人",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "当村 邦明",
+          "university": "大阪大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "土岐 祐子",
+          "university": "関西大 総合情報2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "宇野 賢次郎",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tb",
+          "name": "石川 洋輔",
+          "university": "大阪大 人間科4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "大薮 真之祐",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "西雄 翔大",
+          "university": "大阪産業大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "西田 有加里",
+          "university": "大阪スクールオブミュージック カレッジ音楽2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "外池 誠基",
+          "university": "甲南大 経済1"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tp",
+          "name": "潤井 美耶子",
+          "university": "大阪大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "三尾 誠",
+          "university": "大阪大 文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森安 未来",
+          "university": "大阪大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "橋本 利恵",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "岡本 洋平",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "櫛田 拓真",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "那須 翔太",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "三尾 誠",
+          "university": "大阪大文3"
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "（11位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2005.jpg",
+      "musics": [
+        "Lazy Bird (C.U.G.J. O.)",
+        "Lament (村田陽一arr)",
+        "Evanology (Evan Rea)"
+      ],
+      "url1": "https://youtu.be/VcKHfMrSQXA",
+      "url2": "https://youtu.be/WxgMJN29E4I",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "當村 邦明",
+          "university": "大阪大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "東 和宏",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "児玉 瑞穗",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "石川 洋輔",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "脇谷 啓介",
+          "university": "大阪大 基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小林 由和",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "京都教育大 教育2"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "梶本 麻実",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "和田 明彦",
+          "university": "大阪大 経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "小串 洋介",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "知野見 健太",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "千田 尚之",
+          "university": "大阪大 工2"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "（17位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2004.jpg",
+      "musics": [
+        "Counter Block (Count Basie)",
+        "Corner Pocket (Count Basie)",
+        "To You (Count Basie)",
+        "Blee Blop Blues (Count Basie)"
+      ],
+      "url1": "https://youtu.be/KmDTYarAzLY",
+      "url2": "https://youtu.be/UeOIIugDS2A",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "柏原 菜都子",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "松下 明紀子",
+          "university": "人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "日比 準二",
+          "university": "経営2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "中西 祐介",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "児玉 瑞穂",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "石川 洋輔",
+          "university": "人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "飯田 哲也",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "高橋 美佳",
+          "university": "薬2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "BTb",
+          "name": "舟橋 大",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "井田 信也",
+          "university": "兵庫教育大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森本 達也",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "大平 和弘",
+          "university": "京都教育大1"
+        },
+        {
+          "symbols": "◎",
+          "instrument": "Tp",
+          "name": "西田 圭佑",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "大山 洋",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "梶本 麻実",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "柿沼 卓宏",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "岩本 拓",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "惣郷 顕哉",
+          "university": "理3"
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "特別賞(6位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2003.jpg",
+      "musics": [
+        "There Will Never Be Another You (Count Basie)",
+        "My Last Affair (Vo) (Quincy Jones)",
+        "It's All Right With Me (Vo) (Martie Paich)",
+        "Fancy Meeting You (Count Basie)"
+      ],
+      "url1": "https://youtu.be/EJg8tH8sEns",
+      "url2": "https://youtu.be/61ctyssxJCI",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "大塚 健志",
+          "university": "人間科学3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "長浦 真美",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "小野 遼",
+          "university": "外国語4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "若松 典美",
+          "university": "人間科学3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "高居 裕香",
+          "university": "医短3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "湯川 直子",
+          "university": "法3"
+        },
+        {
+          "symbols": "◎",
+          "instrument": "Tb",
+          "name": "徳岡 克也",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "林田 悦枝",
+          "university": "大阪音大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "舟橋 大",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "加納 慎平",
+          "university": "甲南大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "濱谷 聡一",
+          "university": "法4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "井田 信也",
+          "university": "兵庫教育大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "西田 佳佑",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "岸本 亮",
+          "university": "大阪音大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "相磯 有輝",
+          "university": "文3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "G",
+          "name": "酒井 大樹",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "産田 幸宏",
+          "university": "大阪音大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Vo",
+          "name": "山下 未来",
+          "university": "医短3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "井田 信他",
+          "university": "法2"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "敢闘賞(7位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2002.jpg",
+      "musics": [
+        "This Could Be The Start Of Something Big (Count Basie)",
+        "Quintessence (Quincy Jones)",
+        "Basie (Count Basie)"
+      ],
+      "url1": "https://youtu.be/cu2C4XG1nNU",
+      "url2": "https://youtu.be/qGcKoSZ9n1U",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "石原 裕也",
+          "university": "甲南大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "森本 洋右",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "大竹 亜矢子",
+          "university": "文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "若松 典美",
+          "university": ""
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "入川 碧",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "堀 裕美子",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "湯川 直子",
+          "university": "法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "徳岡 克也",
+          "university": "基工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "荒木 正太",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "竹田 知江",
+          "university": "医短3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "加納 慎平",
+          "university": "甲南大1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "林 春美",
+          "university": "法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "井田 信也",
+          "university": "兵庫教育大1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "丸山 達郎",
+          "university": "基工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "黒川 隆雄",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "大鐘 章義",
+          "university": "基工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "国納 彰洋",
+          "university": "基工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "酒井 大樹",
+          "university": "工2"
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "TBSラジオ賞(5位）",
+      "soloPrize": "五十嵐（Tb)優秀ソリスト賞",
+      "imagePath": "NWJO_pics/2001.jpg",
+      "musics": [
+        "Four, Five, Six (Count Basie)",
+        "How Am I to Know (Count Basie)",
+        "Makin' Whoopee! (Count Basie)",
+        "Airmail Special (Quincy Jones)"
+      ],
+      "url1": "https://youtu.be/kuXd1CtUtRE",
+      "url2": "https://youtu.be/OQ2PNP-C418",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "石原 裕也",
+          "university": "甲南大1"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "新田 さやか",
+          "university": "法3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "大竹 亜矢子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "西村 春美",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "吉田 早織",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "五十嵐 誠",
+          "university": "関大4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "間野 有希子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "堀 裕美子",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "濁川 政則",
+          "university": "法1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "藤田 尚孝",
+          "university": "甲南大4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "早瀬 温子",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "佐伯 瑠理子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "杭瀬 真知子",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "土井 健司",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "林 大祐",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "国納 彰洋",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "小川 景子",
+          "university": "工3"
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "Swing Journal賞(4位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2000.jpg",
+      "musics": [
+        "Discommotion (Count Basie)",
+        "Fair and Warmer (Count Basie)",
+        "The More I See You (Count Basie)",
+        "The Heat's On (Count Basie)"
+      ],
+      "url1": "https://youtu.be/U3EESI72OEI",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "奥田 善則",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "大山 茜",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "公楽 省吾",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "大竹 亜矢子",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "佐久間 揚介",
+          "university": "経2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "五十嵐 誠",
+          "university": "関大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "藤原 聖",
+          "university": "経2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "生島 謙一郎",
+          "university": "大阪音大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "須沢 宏光",
+          "university": "同志社"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岡野 泰明",
+          "university": "経4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小柳 慶朗",
+          "university": "京大4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "尾崎 あゆみ",
+          "university": "大阪音大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "早瀬 温子",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "森野 智子",
+          "university": "法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "林 大祐",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "高岡 まこと",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "塚本 直正",
+          "university": "理3"
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "TBSラジオ賞(5位）",
+      "soloPrize": "公楽（Ts）優秀ソリスト賞",
+      "imagePath": "NWJO_pics/1999.jpg",
+      "musics": [
+        "Sixteenmen Swingin' (Count Basie)",
+        "Right On (Count Basie)",
+        "The Midnight Sun Will Never Set (Count Basie)",
+        "Basie (Count Basie)"
+      ],
+      "url1": "https://youtu.be/wFjkETyAK-I",
+      "url2": "https://youtu.be/5IrPHrNM3qQ",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "一町 暢洋",
+          "university": "法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "大山 茜",
+          "university": "文2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "公楽 省吾",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "木野村 明彦",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "奥田 善則",
+          "university": "経2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "五十嵐 誠",
+          "university": "関大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "藤井 幸子",
+          "university": "基3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "生島 謙一郎",
+          "university": "大阪音大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "水野 純",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小柳 慶朗",
+          "university": "京大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岡野 泰明",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岩谷 勇治",
+          "university": "経2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "平田 千春",
+          "university": "薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "尾崎 あゆみ",
+          "university": "大阪音大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "西田 有里",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "中野 弘巳",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "香川 広史",
+          "university": "基2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "塩見 哲雄",
+          "university": "文3"
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "特別賞(7位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1998.jpg",
+      "musics": [
+        "Idaho (Count Basie)",
+        "This Way (Count Basie)",
+        "Everything Happens To Me",
+        "The Birth of a Band (Quincy Jones)"
+      ],
+      "url1": "https://youtu.be/H0JmaG01wEo",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "藤井 雅和",
+          "university": "基4"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "伊藤 直子",
+          "university": "人3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "石澤 愛子",
+          "university": "基3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "公楽 省吾",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "大木 一朗",
+          "university": "基3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "佐藤 崇",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "松山 寿々子",
+          "university": "人3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "水野 純",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "南畝 新平",
+          "university": "薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "絹原 一寛",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "浅川 敬之",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "塚原 啓輔",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小柳 慶朗",
+          "university": "京大2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岡野 泰明",
+          "university": "経2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "西田 有里",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "中野 弘已",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "楢崎 亮",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "高橋 政貴",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "塚原 啓輔",
+          "university": "文3"
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "優秀賞(2位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1997.jpg",
+      "musics": [
+        "Dinner With Friend (Count Basie)",
+        "Swing Shift（Untitled Stomp) (Count Basie)",
+        "The Gypsy (Quincy Jones)",
+        "Airmail Special (Quincy Jones)"
+      ],
+      "url1": "https://youtu.be/SXEnOydDqqY",
+      "url2": "https://youtu.be/5gyEPCwechw",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "古野 充晴",
+          "university": "大阪音大4"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "上田 功一朗",
+          "university": "薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "武鴨 聡",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "小澤 千歳",
+          "university": "薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "藤井 雅和",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "澤 雅美",
+          "university": "法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "松山 寿々子",
+          "university": "人2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "南畝 晋平",
+          "university": "薬2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "安部 知之",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小瀬 晃弘",
+          "university": "大阪音大5"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "絹原 一寛",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "紀田 征也",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "後藤 浩嗣",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "塚原 啓輔",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "本倉 聡子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "安部 善紀",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "蓮井 樹生",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "藤岡 聡介",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "安部 知之",
+          "university": "工3"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "優秀賞(2位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1996.jpg",
+      "musics": [
+        "J & B (Count Basie)",
+        "Right On (Count Basie)",
+        "Quintessence (Quincy Jones)",
+        "Dum Dum (Count Basie)"
+      ],
+      "url1": "https://youtu.be/7ij8RqHQGXU",
+      "url2": "https://youtu.be/_-uf5i7at3M",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "兼元 大",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "高山 僚",
+          "university": "工3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "武嶋 聡",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "高木 千惠",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "中南 寛道",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "中尾 真樹子",
+          "university": "人3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "芝田 洋美",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "澤 雅美",
+          "university": "法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "阿部 知之",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小瀬 晃弘",
+          "university": "大阪音大4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "原 里緒",
+          "university": "文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "福原 慎也",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "上野 純子",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "兵庫 一也",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "絹原 一寛",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "古田 裕一",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "西崎 智",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "林 裕二",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "岡崎 隆治",
+          "university": "工3"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "最優秀賞(1位)",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1995.jpg",
+      "musics": [
+        "Avenue C (Count Basie)",
+        "How Am I to Know (Count Basie)",
+        "Lady Carolyn (Count Basie)",
+        "Rat Race (Count Basie)"
+      ],
+      "url1": "https://youtu.be/ODn3QBAMFZ8",
+      "url2": "https://youtu.be/LQ3XZ90rOvc",
+      "members": [
+        {
+          "symbols": "★",
+          "instrument": "ASx",
+          "name": "兼元 大",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Asx",
+          "name": "紅林 圭太郎",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "横山 真也",
+          "university": "法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "知念 充",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "正岡 秀夫",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "平石 勝俊",
+          "university": "基礎工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "垣之内 雅子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "中尾 真樹子",
+          "university": "人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "芝田 洋美",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "松永 弘明",
+          "university": "基礎工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "尹 和成",
+          "university": "大阪音大4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小瀬 晃弘",
+          "university": "大阪音大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "永田 智之",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "福原 慎也",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "笹 靖幸",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "有瀧 正人",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "吉田 壱",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "服部 佐和子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "紅林 圭太郎",
+          "university": "理3"
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "band": "日本E軍 Monkey Club Jazz Orchestra",
+      "prize": "奨励賞(10位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1995MCJO.jpg",
+      "musics": [
+        "The Flaming Sword (Duke Ellington)",
+        "Black And Tan Fantasy (Duke Ellington)",
+        "Rockin' In Rhythm (Duke Ellington)"
+      ],
+      "url1": "https://youtu.be/AtUA_hyVf1o",
+      "url2": "https://youtu.be/JXE3pMtDIm8",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx/Cl",
+          "name": "中本 剛二",
+          "university": "文5"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "越智 友佳理",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx/Cl",
+          "name": "上南 恵資",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "高木 千恵",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "中南 寛道",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "平石 勝俊",
+          "university": "基礎工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "中尾 真樹子",
+          "university": "人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "澤 雅美",
+          "university": "法1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "阿部 泰也",
+          "university": "理5"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "綿谷 寿美",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "北 万弥子",
+          "university": "薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "中島 美帆",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "笹 靖幸",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "平松 恒雄",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "村上 壽一",
+          "university": "理3"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "優秀賞(3位）",
+      "soloPrize": "日比野（Ts）最優秀ソリスト賞",
+      "imagePath": "NWJO_pics/1994.jpg",
+      "musics": [
+        "A Square at The Roundtable (Count Basie)",
+        "Fair & Warmer (Count Basie)",
+        "Make Me A Present of You (Count Basie)",
+        "Basie (Count Basie)"
+      ],
+      "url1": "https://youtu.be/9H4fsBZ53X8",
+      "url2": "https://youtu.be/VNAkn_CccY4",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "里村 稔",
+          "university": "関大4"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "松井 治子",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "日比野 則彦",
+          "university": "人間科学3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "松村 悟美",
+          "university": "経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "兼元 大",
+          "university": "工2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "平石 勝俊",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "垣之内 雅子",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "亀山 忠秀",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "森 博之",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "阿部 泰也",
+          "university": "理4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "山本 信記",
+          "university": "関大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "中嶋 労",
+          "university": "関大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小柳 智義",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "荒木 俊一",
+          "university": "法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "深田 敦史",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "有瀧 正人",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "石橋 裕基",
+          "university": "経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "服部 佐和子",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "中嶋 労",
+          "university": "関大3"
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "band": "日本E軍 Monkey Club Jazz Orchestra",
+      "prize": "Swing Journal賞(4位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1994MCJO.jpg",
+      "musics": [
+        "Bojangles (Duke Ellington)",
+        "Jack The Bear (Duke Ellington)",
+        "Don't Get Around Much Anymore (Duke Ellington)",
+        "Halem Air Shaft (Duke Ellington)"
+      ],
+      "url1": "https://youtu.be/gVeRnBveCPU",
+      "url2": "https://youtu.be/VmLhuHYXp7E",
+      "members": [
+        {
+          "symbols": "★",
+          "instrument": "ASx",
+          "name": "中本 剛二",
+          "university": "文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Asx",
+          "name": "小林 元子",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "山本 拓",
+          "university": "人間科4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx/Cl",
+          "name": "上南 ケイジ",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "西條 ヒデキ",
+          "university": "人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "ヤーヤー 平石",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "Philip 森S",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "中尾 真樹子",
+          "university": "人間科1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "Plunger 阿部",
+          "university": "理4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "安藤 哲也",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "Cat 鳥見",
+          "university": "経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小田 陽子",
+          "university": "人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "笹 靖幸",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "田尻 元希",
+          "university": "文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "末次 利充",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "石川 五右衛門",
+          "university": "法2"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "優秀賞(3位）",
+      "soloPrize": "里村（Ts）優秀ソリスト賞",
+      "imagePath": "NWJO_pics/1993.jpg",
+      "musics": [
+        "Fancy Meeting You (Count Basie)",
+        "T.V. Time (Count Basie)",
+        "All Heart (Count Basie)",
+        "Little Pony (Count Basie)"
+      ],
+      "url1": "https://youtu.be/N0O5aQS01B0",
+      "url2": "https://youtu.be/sEnLCwxEvqM",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "長井 稔",
+          "university": "経済4"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "森重 恵美子",
+          "university": "歯3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "里村 稔",
+          "university": "関大法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "山本 拓",
+          "university": "人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "恒川 直輝",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "浅川 尚樹",
+          "university": "文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "森 博之",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "平石 勝俊",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "本橋 克",
+          "university": "文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "上村 光生",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "阿部 泰也",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "松永 弘明",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "安藤 哲也",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "山本 信記",
+          "university": "関大法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "中嶋 労",
+          "university": "関大経済2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "重清 章子",
+          "university": "人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "玉村 学",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "桂浦 誠",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "奥井 香織",
+          "university": "経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "国光 靖子",
+          "university": "法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "兼元 大",
+          "university": "工1"
+        }
+      ]
+    },
+    {
+      "year": 1992,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "審査員賞（８位)",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1992.jpg",
+      "musics": [
+        "Halfmoon Street (Count Basie)",
+        "And That's That (Count Basie)",
+        "Whirly Bird (Count Basie)"
+      ],
+      "url1": "https://youtu.be/67MYeyXZwtI",
+      "url2": "https://youtu.be/Hdb7KTqJqQ4",
+      "members": [
+        {
+          "symbols": "★",
+          "instrument": "ASx",
+          "name": "長井 稔",
+          "university": "経済3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Asx",
+          "name": "山田 栄太郎",
+          "university": "薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "小南 勝也",
+          "university": "薬3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "里村 稔",
+          "university": "関大法 2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "河村 亮介",
+          "university": "人間科4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "横山 和江",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "浅川 尚樹",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "寺田 博一",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "本橋 克",
+          "university": "文 3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "永田 有広",
+          "university": "基礎工5"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "市川 修",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "北野 敦則",
+          "university": "法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "上村 光生",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "阿部 泰也",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "橋本 京子",
+          "university": "法3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "玉村 学",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "桂浦 誠",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "三井 大生",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "岡山 希和子",
+          "university": "人間科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "重清 章子",
+          "university": "人間科2"
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "奨励賞(10位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1991.jpg",
+      "musics": [
+        "You Got It (Count Basie)",
+        "Why Not (Count Basie)",
+        "So Young So Beautiful (Count Basie)",
+        "Hittin' 12 (Count Basie)"
+      ],
+      "url1": "https://youtu.be/btgOiwXLUp4",
+      "url2": "https://youtu.be/EzyrWEKCkfo",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "長井 稔",
+          "university": "経2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "原 武志",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "湯藤 潤",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "徳山 佳樹",
+          "university": "人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "河村 亮介",
+          "university": "人間科3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "若杉 幹人",
+          "university": "理4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "横山 和江",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "浅川 尚樹",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "本橋 克",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "永田 有広",
+          "university": "基礎工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "安部 人史",
+          "university": "人間科4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "市川 修",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "牧 慎一郎",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "北野 敦則",
+          "university": "法2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "阿部 泰也",
+          "university": "理1"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "日野上 麗子",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "澤井 俊博",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "市橋 隆",
+          "university": "理3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "G",
+          "name": "竹村 政信",
+          "university": "法3"
+        }
+      ]
+    },
+    {
+      "year": 1990,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "特別賞(6位）",
+      "soloPrize": "リズムセクション(審査員賞）",
+      "imagePath": "NWJO_pics/1990.jpg",
+      "musics": [
+        "Stereophonic (Count Basie)",
+        "Corner Pocket (Count Basie)",
+        "Rollen'Pete（Vo) (Count Basie)",
+        "Blee Blop Blues (Count Basie)"
+      ],
+      "url1": "https://youtu.be/d4gVq0Hi_G4",
+      "url2": "https://youtu.be/H0VISwDO8bo",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "佐々木 数",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "原 武志",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "直井 英樹",
+          "university": "経4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "湯藤 潤",
+          "university": "基 2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "家垣 吉孝",
+          "university": "人4"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "若杉 幹人",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "清原 佐知子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "横山 和江",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "本橋 克",
+          "university": "文1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岩田 英司",
+          "university": "理4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "永田 有広",
+          "university": "基3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "林 可奈子",
+          "university": "理 3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "安部 人史",
+          "university": "人3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "市川 修",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "鈴木 陽子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "北野 恭子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "川瀬 克之",
+          "university": "基2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "大西 哲",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Vo",
+          "name": "新村 耕司",
+          "university": "基M1"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "北野 敦則",
+          "university": ""
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "小南 勝也",
+          "university": ""
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "優秀賞(2位)",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1989.jpg",
+      "musics": [
+        "Sixteenmen Swingin' (Count Basie)",
+        "Blues In Hoss Flat (Count Basie)",
+        "Almost Like Being In Love (Vo) (Nat Cole（Vo))",
+        "Basie (Count Basie)"
+      ],
+      "url1": "https://youtu.be/0uneAyp-qk4",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "高木 浩志",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "佐久木 数",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "和久 治彦",
+          "university": "文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "直井 英樹",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "家垣 吉孝",
+          "university": "人3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "丸山 和則",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "坂下 浩敏",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "清原 佐知子",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "若杉 幹人",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岩田 英司",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "寺原 太郎",
+          "university": "基3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "長谷川 伸二",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "太田 陽子",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "永田 有広",
+          "university": "基2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "鈴木 陽子",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "松村 雄二",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "木村 優一郎",
+          "university": "　　"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "園田 豊",
+          "university": "経2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Vo",
+          "name": "谷 美加",
+          "university": "大教大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "三宅 泰裕",
+          "university": ""
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "西山 美保",
+          "university": ""
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "審査員賞（８位)",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1988.jpg",
+      "musics": [
+        "How High The Moon (Count Basie)",
+        "Counter Block (Count Basie)",
+        "Summer Frost (Count Basie)",
+        "Fancy Meeting You (Count Basie)"
+      ],
+      "url1": "https://youtu.be/LqXQdf6-vpk",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "高木 浩志",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "鈴木 洋子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "西山 美保",
+          "university": "大教大3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "和久 治彦",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "家垣 吉孝",
+          "university": "人2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "駒野 岳志",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "広兼 剛",
+          "university": "基礎工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "丸山 和則",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "清原 佐知子",
+          "university": "文1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "本岡 朗",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岩田 英司",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "横沢 晶人",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "寺原 太郎",
+          "university": "基礎工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "長谷川 伸二",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "永田 有広",
+          "university": "基礎工1"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "鈴木 久美子",
+          "university": "文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "島田 尊",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "野崎 敏郎",
+          "university": "医短3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "三宅 泰裕",
+          "university": "医3"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "Swing Journal賞(4位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1987.jpg",
+      "musics": [
+        "This Could Be The Something Big (Count Basie)",
+        "Moten Swing (Count Basie)",
+        "If I Could Be With You (Harry James)",
+        "Flight Of The Foobird (Count Basie)"
+      ],
+      "url1": "https://youtu.be/fWvXfamUPec",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "高木 浩志",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "鈴木 洋子",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "和久 治彦",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "広瀬 誠",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "竹田 均",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "駒野 岳志",
+          "university": "工4"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "広兼 剛",
+          "university": "基3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "丸山 和則",
+          "university": "理1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "西村 重徳",
+          "university": "理M1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "横沢 晶人",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岡村 靖道",
+          "university": "基3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "本岡 朗",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "不二章 教治",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岩田 英司",
+          "university": "理1"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "田島 雅美",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "鹿野 新吾",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "岡部 潤也",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "矢野 元",
+          "university": "人3"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "",
+      "soloPrize": "切手（As)優秀ソリスト賞",
+      "imagePath": "NWJO_pics/1986.jpg",
+      "musics": [
+        "Ya Gatta Try (Buddy Rich)",
+        "Quintessence (Quincy Jones)",
+        "Burnin' (Don Menza)"
+      ],
+      "url1": "https://youtu.be/n9-k2BGHNFI",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "横沢 晶人",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "本岡 朗",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岡村 晴道",
+          "university": "基2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "不二葦 教治",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "合屋 将",
+          "university": "医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "吉田 哲之",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "西村 重徳",
+          "university": "理4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "寺島 知秀",
+          "university": "基4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "駒野 岳志",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "広兼 剛",
+          "university": "基2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "ASx",
+          "name": "切手 崇博",
+          "university": "人3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Asx",
+          "name": "西田 洋一",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "今西 秀樹",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "吉野 慶子",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "竹田 均",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Pf",
+          "name": "生島 裕文",
+          "university": "医2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "矢野 元",
+          "university": "人2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "近藤 史朗",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "林 昭人",
+          "university": "工3"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "審査員賞（８位)",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1985.jpg",
+      "musics": [
+        "Mean What You Say (Thad Mel)",
+        "Little Pixie Ⅱ (Thad Mel)"
+      ],
+      "url1": "http://www.youtube.com/watch?v=yRsfw-JtGzY",
+      "url2": "http://www.youtube.com/watch?v=dZRSdEsOmkg",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "本多 一光",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "水上 貴之",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "平崎 鋭矢",
+          "university": "人間科学3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岩田 章吾",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "横沢 晶人",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "合屋 将",
+          "university": "医2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "西村 重徳",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "寺島 知秀",
+          "university": "基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "駒野 岳志",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "広兼 剛",
+          "university": "基礎工1"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "切手 崇博",
+          "university": "人間科学2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "西田 洋一",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "今西 秀樹",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "吉野 慶子",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "竹田 均",
+          "university": "工1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Pf",
+          "name": "永田 真己子",
+          "university": "人間科学3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "山村 雅俊",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "田中 秀樹",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "福永 貴之",
+          "university": "基礎工3"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "TBSラジオ賞(5位）",
+      "soloPrize": "上田（Vo)審査員賞",
+      "imagePath": "NWJO_pics/1984.jpg",
+      "musics": [
+        "Wind Machine (Count Basie)",
+        "Blues For Stephanie (Count Basie)",
+        "Give Me The Simple Life (Ella&Ernie Heckscher)"
+      ],
+      "url1": "https://youtu.be/5q91E-TfrNA",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "本多 一光",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森 貞",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "岩橋 博見",
+          "university": "医2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "横沢 晶人",
+          "university": "工1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "佐野 幹彦",
+          "university": "基4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "寺島 知秀",
+          "university": "基2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "西村 重徳",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "新藤 耕",
+          "university": "基4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Asx",
+          "name": "切手 崇博",
+          "university": "人1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Asx",
+          "name": "西塔 治",
+          "university": "歯5"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "山本 一男",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "堀 靖",
+          "university": "理M1"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "井上 達也",
+          "university": "人2"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "小磯 潮",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "浜崎 岳史",
+          "university": "工M1"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "大澤 善樹",
+          "university": "基3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "森 知彦",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Vo",
+          "name": "上田 美恵",
+          "university": "神戸市外大文4"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "Swing Journal賞(4位）",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1983.jpg",
+      "musics": [
+        "Heat's On (Count Basie)",
+        "Hay Burner (Count Basie)",
+        "Satin Doll (前田憲男arr)",
+        "TJF'83 (前田憲男original)"
+      ],
+      "url1": "https://youtu.be/HDdgLZT0fS4",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "★",
+          "instrument": "P",
+          "name": "幡山 靖",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "前 俊弘",
+          "university": "経4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "津山 努",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "原田 英二",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "白川 忠秀",
+          "university": "基4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "本多 一光",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森 貞",
+          "university": "文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "佐野 幹彦",
+          "university": "基3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "新藤 耕",
+          "university": "基4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "酒井 雅司",
+          "university": "関大経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "寺島 知秀",
+          "university": "基1"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "後藤 真一",
+          "university": "人4"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "松原 孝行",
+          "university": "阪南大文1"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "堀 靖",
+          "university": "理4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "山本 一男",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "佐々木 誠",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "字根崎 博信",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "加藤 秀夫",
+          "university": "基3"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "小磯 潮",
+          "university": "経2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "森 知彦",
+          "university": "工2"
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/1981.jpg",
+      "musics": [
+        "What's New (Stan Kenton)",
+        "New Girl (Duke Pearson)",
+        "Disapproachment (Duke Pearson)"
+      ],
+      "url1": "https://youtu.be/HqLjg4xBc3c",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "後藤 真一",
+          "university": "人科2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "西塔 治",
+          "university": "歯2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "市川 肇",
+          "university": "医4"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "堀 靖",
+          "university": "理2"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "高畠 章",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "武田 雅宏",
+          "university": "法4"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "古田 浩",
+          "university": "医4"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "四方 洋",
+          "university": "経2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "大隅 康令",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "浜崎 岳史",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "城崎 潔",
+          "university": "医5"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "中山 幸治",
+          "university": "経4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森岡 洋介",
+          "university": "理4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "前 俊弘",
+          "university": "経2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "酒井 勝也",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "大島 純",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "西村 文宏",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "新藤 耕",
+          "university": "基工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "佐野 幹彦",
+          "university": "基工1"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "",
+      "soloPrize": "中島（B)審査員賞",
+      "imagePath": "NWJO_pics/1980.jpg",
+      "musics": [
+        "Blues Around The Corner",
+        "Mean What You Say (Thad Mel)",
+        "Impressions (NH（山木幸三郎）)"
+      ],
+      "url1": "https://youtu.be/RNlooiS0LGc",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "市川 肇",
+          "university": "医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "石井 光夫",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "竹之内 健",
+          "university": "工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "後藤 真一",
+          "university": "人科1"
+        },
+        {
+          "symbols": "",
+          "instrument": "BSx",
+          "name": "橋本 伸",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "城崎 潔",
+          "university": "医4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "太田 真輔",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "中山 幸治",
+          "university": "経3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森岡 洋介",
+          "university": "理3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "前 俊弘",
+          "university": "経1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "大島 純",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "島川 佳郎",
+          "university": "工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "西村 文宏",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "武田 雅宏",
+          "university": "法4"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "中島 教秀",
+          "university": "文4"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "吉田 幸生",
+          "university": "基工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "大隅 康令",
+          "university": "工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "大和田 哲雄",
+          "university": "医2"
+        }
+      ]
+    }
+  ]
+}
