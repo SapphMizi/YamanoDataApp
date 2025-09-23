@@ -7,7 +7,8 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint",
-    "lint:css": "stylelint \"**/*.css\""
+    "lint:css": "stylelint \"**/*.css\"",
+    "generate:data": "node tools/generate-yamano-history.js"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.8",

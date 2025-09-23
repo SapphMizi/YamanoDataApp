@@ -1,22 +1,22 @@
 {
   "stats": {
-    "totalYears": 45,
+    "totalYears": 46,
     "yearRange": {
       "start": 1980,
       "end": 2024
     },
     "bands": [
-      "{ER Monkey Club Jazz Orchestra",
-      "The New Wave Jazz Orchestra"
+      "The New Wave Jazz Orchestra",
+      "日本E軍 Monkey Club Jazz Orchestra"
     ],
-    "totalMusics": 162,
-    "totalMembers": 830
+    "totalMusics": 164,
+    "totalMembers": 848
   },
   "data": [
     {
       "year": 2024,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "9ʁ^woA[h",
+      "prize": "9位／学バンアワード",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2024.jpg",
       "musics": [
@@ -30,111 +30,111 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "勴 S؁i㉹y y1j",
-          "university": ""
+          "name": "大橋 祐菜",
+          "university": "大阪音楽大 音楽1"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "| i lԉ3j",
-          "university": ""
+          "name": "竹中 光",
+          "university": "大阪大 人間科3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "V zi VXe2j",
-          "university": ""
+          "name": "澤井 凛",
+          "university": "大阪公立大 現代システム2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "i H1j",
-          "university": ""
+          "name": "藤原 綾音",
+          "university": "大阪大 工1"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "i 3j",
-          "university": ""
+          "name": "藤井 佳穂",
+          "university": "大阪大 理3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "足立 和志",
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "aui 3j",
-          "university": ""
+          "name": "岡本 祥孝",
+          "university": "関西学院大 商2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ ˍFi֐w@ 2j",
-          "university": ""
+          "name": "梶田 百恵",
+          "university": "大阪大 外国語2"
         },
         {
-          "symbols": "",
+          "symbols": "◆",
           "instrument": "Tp",
-          "name": "c Sbi O2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "gR Зځi 3j",
-          "university": ""
+          "name": "吉山 孟瑠",
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "唗 ai㉹y y2j",
-          "university": ""
+          "name": "大迫 日和",
+          "university": "大阪音楽大 音楽2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "O yi֐ VXeH1j",
-          "university": ""
+          "name": "前川 楽",
+          "university": "関西大 システム理工1"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb/MC",
+          "name": "鈴木 洸",
+          "university": "大阪大 法2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "ǗCi O2j",
-          "university": ""
+          "name": "寺野 良佑",
+          "university": "大阪大 外国語2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "^ Vi O3j",
-          "university": ""
+          "name": "真部 寛之",
+          "university": "大阪大 外国語3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "ɓ i_ˏw@ y2j",
-          "university": ""
+          "name": "伊藤 瑞希",
+          "university": "神戸女学院大 音楽2"
         },
         {
-          "symbols": "",
+          "symbols": "●",
           "instrument": "B",
-          "name": "n Ti @3j",
-          "university": ""
+          "name": "八馬 梓乃",
+          "university": "大阪大 法3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "| i 3j",
-          "university": ""
+          "name": "佐竹 亮弥",
+          "university": "大阪大 文3"
         }
       ]
     },
     {
       "year": 2023,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "13",
+      "prize": "13位",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2023.jpg",
       "musics": [
@@ -149,111 +149,117 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Ð ߁i_ˑ H3j",
-          "university": ""
+          "name": "古川 千鶴",
+          "university": "神戸大 工3"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "TSx",
-          "name": "bNioϑ Љ2j",
-          "university": ""
+          "name": "園 恵太朗",
+          "university": "大阪経済大 情報社会2"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "| i lԉ2j",
-          "university": ""
+          "name": "竹中 光",
+          "university": "大阪大 人間科2"
         },
         {
-          "symbols": "",
+          "symbols": "◆",
           "instrument": "TSx",
-          "name": "T ʉi֐ 3j",
-          "university": ""
+          "name": "亀島 彩加",
+          "university": "関西大 文3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "i 2j",
-          "university": ""
+          "name": "藤井 佳穂",
+          "university": "大阪大 理2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "",
-          "university": ""
+          "name": "江口 多聞",
+          "university": "甲南大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp/MC",
+          "name": "足立 和志",
+          "university": "大阪大 理2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "gR Зځi 2j",
-          "university": ""
+          "name": "吉山 孟瑠",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "守口 綾乃",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Ti bH3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "䌴 dYi bH3j",
-          "university": ""
+          "name": "井原 慧太郎",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "c Iҁiŋ 3j",
-          "university": ""
+          "name": "田中 悠惟",
+          "university": "佛教大 教育3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "{ 󖢁iߋE oc2j",
-          "university": ""
+          "name": "宮下 希未",
+          "university": "近畿大 経営2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "唗 ai㉹y y1j",
-          "university": ""
+          "name": "大迫 日和",
+          "university": "大阪音楽大 音楽1"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "y Dli bH3j",
-          "university": ""
+          "name": "土屋 優斗",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "c oi lԉ3j",
-          "university": ""
+          "name": "田村 美登",
+          "university": "大阪大 人間科3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "R i lԉ2j",
-          "university": ""
+          "name": "山下 晴生",
+          "university": "大阪大 人間科2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "n Ti @2j",
-          "university": ""
+          "name": "八馬 梓乃",
+          "university": "大阪大 法2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "쑺 sVi H3j",
-          "university": ""
+          "name": "野村 壮之介",
+          "university": "大阪大 工3"
         }
       ]
     },
     {
       "year": 2022,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "9ʁ^woA[h",
+      "prize": "9位／学バンアワード",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2022.jpg",
       "musics": [
@@ -268,117 +274,234 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Vc i 3j",
-          "university": ""
+          "name": "澤田 美晴",
+          "university": "大阪大 医3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "{ 􍁁iّ S2j",
-          "university": ""
+          "name": "杉本 峰香",
+          "university": "立命館大 総合心理2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "TSx",
+          "name": "河尻 彩矢",
+          "university": "大阪大 外国語3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "͐K ʖi O3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "T ʉi֐ 2j",
-          "university": ""
+          "name": "亀島 彩加",
+          "university": "関西大 文2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "bNioϑ Љ1j",
-          "university": ""
+          "name": "園 恵太朗",
+          "university": "大阪経済大 情報社会1"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "i 3j",
-          "university": ""
+          "name": "筒井 あかり",
+          "university": "大阪大 文3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "{ 󖢁iߋE oc1j",
-          "university": ""
+          "name": "宮下 希未",
+          "university": "近畿大 経営1"
         },
         {
           "symbols": "",
-          "instrument": "Tb",
-          "name": "",
-          "university": ""
+          "instrument": "Tb/MC",
+          "name": "土屋 優斗",
+          "university": "大阪大 基礎工2"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "BTb",
-          "name": "i H3j",
-          "university": ""
+          "name": "井野 涼介",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "X yli H3j",
-          "university": ""
+          "name": "森園 凉斗",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "] ib 1j",
-          "university": ""
+          "name": "江口 多聞",
+          "university": "甲南大 文1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i֐w@ Љ3j",
-          "university": ""
+          "name": "高橋 実里",
+          "university": "関西学院大 社会3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "䌴 dYi bH2j",
-          "university": ""
+          "name": "井原 慧太郎",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Ti bH2j",
-          "university": ""
+          "name": "守口 綾乃",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "e Ci O3j",
-          "university": ""
+          "name": "西脇 実佑",
+          "university": "大阪大 外国語3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "Oc ^i H4j",
-          "university": ""
+          "name": "前田 真治",
+          "university": "大阪大 工4"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "Oi @3j",
-          "university": ""
+          "name": "村上 昌弘",
+          "university": "大阪大 法3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "쑺 sVi H2j",
-          "university": ""
+          "name": "野村 壮之介",
+          "university": "大阪大 工2"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "band": "The New Wave Jazz Orchestra",
+      "prize": "",
+      "soloPrize": "",
+      "imagePath": "NWJO_pics/2021.jpg",
+      "musics": [
+        "Swing Shift (Count Basie)",
+        "Hittin' 12 (Count Basie)"
+      ],
+      "url1": "https://www.youtube.com/watch?v=m60BEMeENnM",
+      "url2": "",
+      "members": [
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "石脇 陽太",
+          "university": "大阪音楽大 音楽2"
+        },
+        {
+          "symbols": "",
+          "instrument": "ASx",
+          "name": "澤田 美晴",
+          "university": "大阪大 医2"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "楠山 弘基",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx",
+          "name": "河尻 彩矢",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "BSx",
+          "name": "濱 拓弥",
+          "university": "大阪大 基礎工4"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "青塚 皓平",
+          "university": "大阪大 工4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "由良 建人",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tb",
+          "name": "山下 舞花",
+          "university": "大阪大 医3"
+        },
+        {
+          "symbols": "",
+          "instrument": "BTb",
+          "name": "井野 涼介",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "佐々木 穂乃香",
+          "university": "甲南大 マネジメント創造3"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "森園 凉斗",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "亀山 日向",
+          "university": "大阪大 外国語4"
+        },
+        {
+          "symbols": "",
+          "instrument": "Tp",
+          "name": "小野 佑太",
+          "university": "大阪大 法4"
+        },
+        {
+          "symbols": "",
+          "instrument": "P",
+          "name": "西脇 実佑",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "",
+          "instrument": "B",
+          "name": "前田 真治",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "G",
+          "name": "富永 凉",
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "D",
+          "name": "伊藤 裕貴",
+          "university": "大阪大 経済4"
         }
       ]
     },
     {
       "year": 2020,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "xXgOؕq",
+      "prize": "ベスト三木敏悟賞",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2020.jpg",
       "musics": [
@@ -391,123 +514,123 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "{ i㉹y y3j",
-          "university": ""
+          "name": "藤本 隼平",
+          "university": "大阪音楽大 音楽3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "R ܂i_ˏw@ 3j",
-          "university": ""
+          "name": "山根 まゆ",
+          "university": "神戸女学院大 文3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "c i㉹y y3j",
-          "university": ""
+          "name": "岡田 星",
+          "university": "大阪音楽大 音楽3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R Oi bH3j",
-          "university": ""
+          "name": "楠山 弘基",
+          "university": "大阪大 基礎工3"
         },
         {
-          "symbols": "",
+          "symbols": "●",
           "instrument": "BSx",
-          "name": "_ i bH3j",
-          "university": ""
+          "name": "濱 拓弥",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "青塚 晧平",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": " 약i H3j",
-          "university": ""
+          "name": "由良 健人",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "R li H2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "R ԁi 2j",
-          "university": ""
+          "name": "山下 舞花",
+          "university": "大阪大 医2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "i H1j",
-          "university": ""
+          "name": "井野 涼介",
+          "university": "大阪大 工1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ti㉹y y2j",
-          "university": ""
+          "name": "中村 葉月",
+          "university": "大阪音楽大 音楽2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "g i㉹y y1j",
-          "university": ""
+          "name": "吉川 七穂",
+          "university": "大阪音楽大 音楽1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c Gib oc2j",
-          "university": ""
+          "name": "田中 快季",
+          "university": "甲南大 経営2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Ci @3j",
-          "university": ""
+          "name": "小野 佑太",
+          "university": "大阪大 法3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ i 3j",
-          "university": ""
+          "name": "橋本 涼",
+          "university": "大阪大 薬3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "c Dli bH3j",
-          "university": ""
+          "name": "増田 颯人",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "xi i H2j",
-          "university": ""
+          "name": "富永 涼",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
-          "instrument": "BEVo",
-          "name": "X ܖi O2j",
-          "university": ""
+          "instrument": "B・Vo",
+          "name": "森 妃名",
+          "university": "大阪大 外国語2"
         },
         {
           "symbols": "",
           "instrument": "Ds",
-          "name": "ݖ{ Wii H3j",
-          "university": ""
+          "name": "岸本 晃司",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "R ܂i_ˏw@ 3j",
-          "university": ""
+          "name": "山根 まゆ",
+          "university": "神戸女学院大 文3"
         }
       ]
     },
     {
       "year": 2019,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "(10)",
+      "prize": "奨励賞 (10位)",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2019.jpg",
       "musics": [
@@ -522,127 +645,127 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "{ i㉹y y2j",
-          "university": ""
+          "name": "藤本 隼平",
+          "university": "大阪音楽大 音楽2"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "R ܂i_ˏw@ 2j",
-          "university": ""
+          "name": "山根 まゆ",
+          "university": "神戸女学院大 文2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ic EiO 4j",
-          "university": ""
+          "name": "永田 右京",
+          "university": "大手前大 総合文化4"
         },
         {
-          "symbols": "",
+          "symbols": "●",
           "instrument": "TSx",
-          "name": "Yqi 3j",
-          "university": ""
+          "name": "下條 澪子",
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "_ i bH2j",
-          "university": ""
+          "name": "濱 拓弥",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "T i bH3j",
-          "university": ""
+          "name": "亀井 茜",
+          "university": "大阪大 基礎工3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "細川 涼介",
+          "university": "大阪音楽大 音楽3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "א i㉹y y3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": " ᩕi H2j",
-          "university": ""
+          "name": "青塚 皓平",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "א gi lԉ4j",
-          "university": ""
+          "name": "細川 波留佳",
+          "university": "大阪大 人間科4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "gc i 4j",
-          "university": ""
+          "name": "吉田 朋美",
+          "university": "大阪大 理4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c Gib oc1j",
-          "university": ""
+          "name": "田中 快季",
+          "university": "甲南大 経営1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "X nTib }lWgn1j",
-          "university": ""
+          "name": "佐々木 穗乃香",
+          "university": "甲南大 マネジメント創造1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ i 2j",
-          "university": ""
+          "name": "橋本 涼",
+          "university": "大阪大 薬2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c i H3j",
-          "university": ""
+          "name": "田辺 初希",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "R CNi H3j",
-          "university": ""
+          "name": "高山 修一朗",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "א yib 3j",
-          "university": ""
+          "name": "細川 遥未",
+          "university": "甲南大 文3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "B vi O3j",
-          "university": ""
+          "name": "安達 久美",
+          "university": "大阪大 外国語3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "Fi bH3j",
-          "university": ""
+          "name": "橋口 公彦",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": " ᩕi H2j",
-          "university": ""
+          "name": "青塚 皓平",
+          "university": "大阪大 工2"
         }
       ]
     },
     {
       "year": 2018,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "4",
+      "prize": "4位",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2018.jpg",
       "musics": [
-        "Sixteen men Swinginf (Count Basie)",
+        "Sixteen men Swingin’ (Count Basie)",
         "Down For Double (Count Basie)",
         "All Heart (Count Basie)",
         "Airmail Special (Count Basie)"
@@ -653,123 +776,123 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "]i㉹y y4j",
-          "university": ""
+          "name": "小寺 拓望",
+          "university": "大阪音楽大 音楽4"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "ASx",
-          "name": "r Ɓi㉹y y3j",
-          "university": ""
+          "name": "池川 風哉",
+          "university": "大阪音楽大 音楽3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ic EiO 3j",
-          "university": ""
+          "name": "永田 右京",
+          "university": "大手前大 総合文化3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "Yqi 2j",
-          "university": ""
+          "name": "下條 澪子",
+          "university": "大阪大 理2"
         },
         {
-          "symbols": "",
+          "symbols": "◆",
           "instrument": "BSx",
-          "name": "c gi H3j",
-          "university": ""
+          "name": "中田 美波",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "O iib }lWgn3j",
-          "university": ""
+          "name": "三原 雅司",
+          "university": "甲南大 マネジメント創造3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "A Gށi O3j",
-          "university": ""
+          "name": "廣常 絵梨奈",
+          "university": "大阪大 外国語3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "א i㉹yZ y2j",
-          "university": ""
+          "name": "細川 涼介",
+          "university": "大阪音楽大短期大 音楽2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "א gi lԉ 3j",
-          "university": ""
+          "name": "細川 波留佳",
+          "university": "大阪大 人間科 3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i Yȁi㉹y y1j",
-          "university": ""
+          "name": "永野 雄己",
+          "university": "大阪音楽大 音楽1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "E 介Ki bH3j",
-          "university": ""
+          "name": "右京 莉規",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c i H2j",
-          "university": ""
+          "name": "田辺 初希",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "gc i 4j",
-          "university": ""
+          "name": "吉田 朋美",
+          "university": "大阪大 理4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "x ؒËIi O 3j",
-          "university": ""
+          "name": "堀内 菜津紀",
+          "university": "大阪大 外国語 3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "R CNi H2j",
-          "university": ""
+          "name": "高山 修一朗",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "V mi o3j",
-          "university": ""
+          "name": "金澤 知樹",
+          "university": "大阪大 経済3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "B vi O 2j",
-          "university": ""
+          "name": "安達 久美",
+          "university": "大阪大 外国語 2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "L ki lԉ 3j",
-          "university": ""
+          "name": "豊嶋 耕平",
+          "university": "大阪大 人間科 3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "א i㉹yZ y 2j",
-          "university": ""
+          "name": "細川 涼介",
+          "university": "大阪音楽大短期大 音楽 2"
         }
       ]
     },
     {
       "year": 2017,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "R (9)",
+      "prize": "審査員賞 (9位)",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2017.jpg",
       "musics": [
@@ -784,118 +907,118 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "㓇 ̂ǂi֐ Љ3j",
-          "university": ""
+          "name": "上島 のどか",
+          "university": "関西大 社会3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "r  Ɓi㉹y y2j",
-          "university": ""
+          "name": "池 川 風哉",
+          "university": "大阪音楽大 音楽2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "TSx",
+          "name": "小畑 深月",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "[i bH3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "쐣 li 3j",
-          "university": ""
+          "name": "川瀬 瑛崇",
+          "university": "大阪大 薬3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "c gi H2j",
-          "university": ""
+          "name": "中田 美波",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "͓ Ԏqi O4j",
-          "university": ""
+          "name": "河内 花子",
+          "university": "大阪大 外国語4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ݕ юqi 3j",
-          "university": ""
+          "name": "鈍宝 理紗子",
+          "university": "大阪大 文3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "A Gށi O2j",
-          "university": ""
+          "name": "廣常 絵梨奈",
+          "university": "大阪大 外国語2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "א gi lԉ2j",
-          "university": ""
+          "name": "細川 波留佳",
+          "university": "大阪大 人間科2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "E 介Ki bH2j",
-          "university": ""
+          "name": "右京 莉規",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "͓c mi֐w@ o4j",
-          "university": ""
+          "name": "河田 龍仁",
+          "university": "関西学院大 経済4"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "吉田 朋美",
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "gc i 3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "x ؒËIi O 2j",
-          "university": ""
+          "name": "堀内 菜津紀",
+          "university": "大阪大 外国語 2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "k ؁i㉹y y2j",
-          "university": ""
+          "name": "北野 可菜",
+          "university": "大阪音楽大 音楽2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "c i bH4j",
-          "university": ""
+          "name": "松田 聡",
+          "university": "大阪大 基礎工4"
         },
         {
-          "symbols": "",
+          "symbols": "◆",
           "instrument": "G",
-          "name": "ni 3j",
-          "university": ""
+          "name": "樋口 太地",
+          "university": "大阪大 文3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "Ό rFi bH3j",
-          "university": ""
+          "name": "石原 俊彦",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "r Ɓi㉹y y2j",
-          "university": ""
+          "name": "池川 風哉",
+          "university": "大阪音楽大 音楽2"
         }
       ]
     },
     {
       "year": 2016,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "X|[c(6ʁjwoA[h",
-      "soloPrize": "iTs)ŗDG\\Xg",
+      "prize": "日刊スポーツ賞(6位）学バンアワード",
+      "soloPrize": "安藤（Ts)最優秀ソリスト賞",
       "imagePath": "NWJO_pics/2016.jpg",
       "musics": [
         "A Square at The Roundtable (Count Basie)",
@@ -909,118 +1032,118 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "R Si 3j",
-          "university": ""
+          "name": "山内 亨祐",
+          "university": "大阪大 医3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "㓇 ̂ǂi֐ Љ2j",
-          "university": ""
+          "name": "上島 のどか",
+          "university": "関西大 社会2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "安藤 達也",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "Bi H3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "[i bH2j",
-          "university": ""
+          "name": "小畑 深月",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "ib 3j",
-          "university": ""
+          "name": "村上 元汰",
+          "university": "甲南大 文3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "͓ Ԏqi O3j",
-          "university": ""
+          "name": "河内 花子",
+          "university": "大阪大 外国語3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Rc i @3j",
-          "university": ""
+          "name": "山田 怜美",
+          "university": "大阪大 法3"
         },
         {
-          "symbols": "",
+          "symbols": "◆",
           "instrument": "Tb",
-          "name": "{ іi bH3j",
-          "university": ""
+          "name": "藤本 紗也加",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "qi lԉ3j",
-          "university": ""
+          "name": "佐野 智咲",
+          "university": "大阪大 人間科3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "R{ iߋE _3j",
-          "university": ""
+          "name": "山本 聖",
+          "university": "近畿大 農3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "gc i 2j",
-          "university": ""
+          "name": "吉田 朋美",
+          "university": "大阪大 理2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "咇 Wi @3j",
-          "university": ""
+          "name": "大仲 礼晃",
+          "university": "大阪大 法3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "yJ i֐ @4j",
-          "university": ""
+          "name": "土谷 もも",
+          "university": "関西大 法4"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "k ؁i㉹y y2j",
-          "university": ""
+          "name": "北野 可菜",
+          "university": "大阪音楽大 音楽2"
         },
         {
-          "symbols": "",
+          "symbols": "●",
           "instrument": "B",
-          "name": "J Ii bH3j",
-          "university": ""
+          "name": "谷口 悠",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "ni 2j",
-          "university": ""
+          "name": "樋口 太地",
+          "university": "大阪大 文2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "Ό r?i bH2j",
-          "university": ""
+          "name": "石原 俊?",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "ib 3j",
-          "university": ""
+          "name": "村上 元汰",
+          "university": "甲南大 文3"
         }
       ]
     },
     {
       "year": 2015,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "ʏ(7)",
-      "soloPrize": "RiTs)DG\\Xg",
+      "prize": "特別賞(7位)",
+      "soloPrize": "穐山（Ts)優秀ソリスト賞",
       "imagePath": "NWJO_pics/2015.jpg",
       "musics": [
         "Avenue C (Count Basie)",
@@ -1034,117 +1157,117 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "R Si 2j",
-          "university": ""
+          "name": "山内 亨祐",
+          "university": "大阪大 医2"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "ib 2j",
-          "university": ""
+          "name": "村上 元汰",
+          "university": "甲南大 文2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "穐山 凌",
+          "university": "大阪大 歯3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R i 3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "Bi H2j",
-          "university": ""
+          "name": "安藤 達也",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "r Cbi O3j",
-          "university": ""
+          "name": "池上 佑里恵",
+          "university": "大阪大 外国語3"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "岡崎 優衣",
+          "university": "大阪大 法3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "D߁i @3j",
-          "university": ""
+          "name": "山田 怜美",
+          "university": "大阪大 法2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Rc i @2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "{ іi bH2j",
-          "university": ""
+          "name": "藤本 紗也加",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "c i H3j",
-          "university": ""
+          "name": "原田 稔也",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "R{ iߋE _2j",
-          "university": ""
+          "name": "山本 聖",
+          "university": "近畿大 農2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "咇 Wi @2j",
-          "university": ""
+          "name": "大仲 礼晃",
+          "university": "大阪大 法2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "岩本 真佳",
+          "university": "大阪大 医3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ ^i 3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "ьbi 3j",
-          "university": ""
+          "name": "小椋 紗恵",
+          "university": "大阪大 薬3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "ɓ Di o3j",
-          "university": ""
+          "name": "伊藤 優作",
+          "university": "大阪大 経済3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "J Ii bH2j",
-          "university": ""
+          "name": "谷口 悠",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "Vi H3j",
-          "university": ""
+          "name": "藤原 雅之",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "TR Ci H4j",
-          "university": ""
+          "name": "亀山 修吾",
+          "university": "大阪大 工4"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "咇 Wi @2j",
-          "university": ""
+          "name": "大仲 礼晃",
+          "university": "大阪大 法2"
         }
       ]
     },
     {
       "year": 2014,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "܎s܁i4ʁj",
+      "prize": "さいたま市長賞（4位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2014.jpg",
       "musics": [
@@ -1159,127 +1282,127 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "J ؕہis 3j",
-          "university": ""
+          "name": "西谷 菜保",
+          "university": "大阪市立大 文3"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "Asx",
-          "name": "ĔniHƑ H3j",
-          "university": ""
+          "name": "高見 翔馬",
+          "university": "大阪工業大 環境工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ь i O2j",
-          "university": ""
+          "name": "毛戸 将太",
+          "university": "大阪大 外国語2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R{ Hi H3j",
-          "university": ""
+          "name": "山本 千秋",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "R i 2j",
-          "university": ""
+          "name": "穐山 凌",
+          "university": "大阪大 歯2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "K]i bH3j",
-          "university": ""
+          "name": "高橋 幸江",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "D߁i @2j",
-          "university": ""
+          "name": "岡崎 優衣",
+          "university": "大阪大 法2"
         },
         {
-          "symbols": "",
+          "symbols": "◆",
           "instrument": "Tb",
-          "name": "c Y؁i lԉ3j",
-          "university": ""
+          "name": "田崎 榛菜",
+          "university": "大阪大 人間科3"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "f Rzqiɐ쏗q 4j",
-          "university": ""
+          "name": "糠野 由布子",
+          "university": "武庫川女子大 生活環境4"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "松本 拓馬",
+          "university": "甲南大 知能情報3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ nib m\\3j",
-          "university": ""
+          "name": "青木 奈美",
+          "university": "大阪大 人間科3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": " ޔi lԉ3j",
-          "university": ""
+          "name": "岩本 真佳",
+          "university": "大阪大 医2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ ^i 2j",
-          "university": ""
+          "name": "長田 奈幹",
+          "university": "大阪大 歯3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c ފi 3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "R{ iߋE _1j",
-          "university": ""
+          "name": "山本 聖",
+          "university": "近畿大 農1"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "c Sqi O3j",
-          "university": ""
+          "name": "岡田 麻祐子",
+          "university": "大阪大 外国語3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "i H4j",
-          "university": ""
+          "name": "中川 亮",
+          "university": "大阪大 工4"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "qi H3j",
-          "university": ""
+          "name": "大野 航平",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "TR Ci H3j",
-          "university": ""
+          "name": "亀山 修吾",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "ь i O2j",
-          "university": ""
+          "name": "毛戸 将太",
+          "university": "大阪大 外国語2"
         }
       ]
     },
     {
       "year": 2013,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "X|[c(6ʁj",
+      "prize": "日刊スポーツ賞(6位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2013.jpg",
       "musics": [
-        "Swing ShiftiUntitled Stomp) (Count Basie)",
+        "Swing Shift（Untitled Stomp) (Count Basie)",
         "This Way (Count Basie)",
         "I Cover The Waterfront (Count Basie)",
         "Fancy Meeting You (Count Basie)"
@@ -1290,117 +1413,117 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "e Fi 3j",
-          "university": ""
+          "name": "脇坂 友詞",
+          "university": "大阪大 医3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "ĔniHƑ H2j",
-          "university": ""
+          "name": "高見 翔馬",
+          "university": "大阪工業大 工2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ic Îqi lԉ3j",
-          "university": ""
+          "name": "永田 理津子",
+          "university": "大阪大 人間科3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R{ Hi H2j",
-          "university": ""
+          "name": "山本 千秋",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "R i 1j",
-          "university": ""
+          "name": "穐山 凌",
+          "university": "大阪大 歯1"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "松本 頌平",
+          "university": "大阪大 医3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "{ 񕽁i 3j",
-          "university": ""
+          "name": "高橋 幸江",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "K]i bH2j",
-          "university": ""
+          "name": "田崎 榛菜",
+          "university": "大阪大 人間科2"
         },
         {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "c Y؁i lԉ2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "BTb",
-          "name": "V ʁi o3j",
-          "university": ""
+          "name": "澤井 彩",
+          "university": "大阪大 経済3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "q iuБ 3j",
-          "university": ""
+          "name": "小倉 直也",
+          "university": "同志社大 文化情報3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": " ޔi lԉ2j",
-          "university": ""
+          "name": "青木 奈美",
+          "university": "大阪大 人間科2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c ފi 2j",
-          "university": ""
+          "name": "長田 奈幹",
+          "university": "大阪大 歯2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ nib m\\2j",
-          "university": ""
+          "name": "松本 拓馬",
+          "university": "甲南大 知能情報2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "{ ؎qi o3j",
-          "university": ""
+          "name": "岩本 佳菜子",
+          "university": "大阪大 経済3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "i H3j",
-          "university": ""
+          "name": "中川 亮",
+          "university": "大阪大 工3"
         },
         {
-          "symbols": "",
+          "symbols": "●",
           "instrument": "G",
-          "name": "ɓ i H3j",
-          "university": ""
+          "name": "伊藤 健",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "iuБ o3j",
-          "university": ""
+          "name": "高井 統太",
+          "university": "同志社大 経済3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "ĔniHƑ H2j",
-          "university": ""
+          "name": "高見 翔馬",
+          "university": "大阪工業大 工2"
         }
       ]
     },
     {
       "year": 2012,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "Inter FM܁i5ʁj",
+      "prize": "Inter FM賞（5位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2012.jpg",
       "musics": [
@@ -1415,117 +1538,117 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "R TYib 4j",
-          "university": ""
+          "name": "山口 裕太郎",
+          "university": "甲南大 文4"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "e Fi 2j",
-          "university": ""
+          "name": "脇坂 友詞",
+          "university": "大阪大 医2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "n iuБ 4j",
-          "university": ""
+          "name": "渡邊 隆文",
+          "university": "同志社大 商4"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ic Îqi lԉ2j",
-          "university": ""
+          "name": "永田 理津子",
+          "university": "大阪大 人間科2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "R Di 3j",
-          "university": ""
+          "name": "山内 沙織",
+          "university": "大阪大 薬3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Oi H3j",
-          "university": ""
+          "name": "矢野 弘樹",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "{ 񕽁i 2j",
-          "university": ""
+          "name": "松本 頌平",
+          "university": "大阪大 医2"
         },
         {
-          "symbols": "",
+          "symbols": "◆",
           "instrument": "Tb",
-          "name": "哇 ѐDiuЏq \\ە3j",
-          "university": ""
+          "name": "大島 紗織",
+          "university": "同志社女子大 表象文化3"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "BTb",
-          "name": "Si 3j",
-          "university": ""
+          "name": "西村 祐一",
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "zib 4j",
-          "university": ""
+          "name": "吾妻 陽介",
+          "university": "甲南大 文4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "} Di lԉ3j",
-          "university": ""
+          "name": "國枝 詩織",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "酒井 敦",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ցi bH3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "q iuБ 2j",
-          "university": ""
+          "name": "小倉 直也",
+          "university": "同志社大 文化情報2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "Rc bi O3j",
-          "university": ""
+          "name": "山田 理恵",
+          "university": "大阪大 外国語3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "w BOi o4j",
-          "university": ""
+          "name": "陣内 達弘",
+          "university": "大阪大 経済4"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "ɓ i H2j",
-          "university": ""
+          "name": "伊藤 健",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "i bH4j",
-          "university": ""
+          "name": "佐藤 匠",
+          "university": "大阪大 基礎工4"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "q iuБ 2j",
-          "university": ""
+          "name": "小倉 直也",
+          "university": "同志社大 文化情報2"
         }
       ]
     },
     {
       "year": 2011,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "(17ʁj",
+      "prize": "(17位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2011.jpg",
       "musics": [
@@ -1539,117 +1662,117 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "ɓ _iuБ o4j",
-          "university": ""
+          "name": "伊藤 利浩",
+          "university": "同志社大 経済4"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "{ TKi O2j",
-          "university": ""
+          "name": "宮崎 裕規",
+          "university": "大阪大 外国語2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "n iuБ 3j",
-          "university": ""
+          "name": "渡邊 隆文",
+          "university": "同志社大 商3"
         },
         {
-          "symbols": "",
+          "symbols": "◆",
           "instrument": "TSx",
-          "name": "q qi bH3j",
-          "university": ""
+          "name": "隅倉 麻子",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "@r Fi 3j",
-          "university": ""
+          "name": "蓮池 友香",
+          "university": "大阪大 薬3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Oi H2j",
-          "university": ""
+          "name": "矢野 弘樹",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "؁i H3j",
-          "university": ""
+          "name": "藤川 結華",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "哇 ѐDiuЏq \\ە2j",
-          "university": ""
+          "name": "大島 紗織",
+          "university": "同志社女子大 表象文化2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "Si 2j",
-          "university": ""
+          "name": "西村 祐一",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "吾妻 陽介",
+          "university": "甲南大 文3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "zib 3j",
-          "university": ""
+          "name": "酒井 敦",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ցi bH2j",
-          "university": ""
+          "name": "山名 輝彦",
+          "university": "大阪工業大 情報科2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tp",
+          "name": "上馬場 雄介",
+          "university": "大阪大 経済3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "R PFiHƑ 2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "n Yi o3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "c i H2j",
-          "university": ""
+          "name": "篠田 肇",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "Rc i O2j",
-          "university": ""
+          "name": "山田 理惠",
+          "university": "大阪大 外国語2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "` LVi 3j",
-          "university": ""
+          "name": "秦 伸之介",
+          "university": "大阪大 文3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "O zi @3j",
-          "university": ""
+          "name": "前川 陽平",
+          "university": "大阪大 法3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "i bH3j",
-          "university": ""
+          "name": "佐藤 匠",
+          "university": "大阪大 基礎工3"
         }
       ]
     },
     {
       "year": 2010,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "X|[c(6ʁj",
+      "prize": "日刊スポーツ賞(6位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2010.jpg",
       "musics": [
@@ -1664,115 +1787,115 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "~c Ni H3j",
-          "university": ""
+          "name": "梅田 康成",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Si 2j",
-          "university": ""
+          "name": "佐藤 大祐",
+          "university": "大阪大 理2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "J Ii @3j",
-          "university": ""
+          "name": "寺谷 隼紀",
+          "university": "大阪大 法3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "q qi bH2j",
-          "university": ""
+          "name": "隅倉 麻子",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "× Ci H3}",
+          "name": "古林 修平",
           "university": ""
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "丸田 弥生",
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ۓc 퐶i 3j",
-          "university": ""
+          "name": "梶村 有花",
+          "university": "大阪大 法2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Lԁi @2j",
-          "university": ""
+          "name": "藤川 結華",
+          "university": "大阪大 工2"
         },
         {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "؁i H2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
+          "symbols": "●",
           "instrument": "BTb",
-          "name": "Rc i o3j",
-          "university": ""
+          "name": "山田 佳周",
+          "university": "大阪大 経済3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "zib 2j",
-          "university": ""
+          "name": "吾妻 陽介",
+          "university": "甲南大 文2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "| YLiuБ o3j",
-          "university": ""
+          "name": "竹内 雄記",
+          "university": "同志社大 経済3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "久木田 亮",
+          "university": "大阪大 歯3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "vؓc i 3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "n Yi o2j",
-          "university": ""
+          "name": "上馬場 雄介",
+          "university": "大阪大 経済2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "c zqi H2j",
-          "university": ""
+          "name": "井田 陽子",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "c ȁi 4j",
-          "university": ""
+          "name": "横田 純己",
+          "university": "大阪大 医4"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "c Tji H3j",
-          "university": ""
+          "name": "原田 裕史",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "i bH2j",
-          "university": ""
+          "name": "佐藤 匠",
+          "university": "大阪大 基礎工2"
         }
       ]
     },
     {
       "year": 2009,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "ʏ(7)",
+      "prize": "特別賞(7位)",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2009.jpg",
       "musics": [
-        "Deacon`Corner Pocket`Magic Flea (Count Basie)",
+        "Deacon～Corner Pocket～Magic Flea (Count Basie)",
         "Speaking Of Sounds (Count Basie)",
         "Whirly Bird (Count Basie)"
       ],
@@ -1782,124 +1905,124 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "~c Ni H2j",
-          "university": ""
+          "name": "梅田 康成",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Έ ^ޔi O2j",
-          "university": ""
+          "name": "石井 真奈美",
+          "university": "大阪大 外国語2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "TSx",
+          "name": "大谷 浩史",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "J _ji H3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "J Ii @2j",
-          "university": ""
+          "name": "寺谷 隼紀",
+          "university": "大阪大 法2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "× Ci H2j",
-          "university": ""
+          "name": "古林 修平",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "{ Ci H3j",
-          "university": ""
+          "name": "宮木 佑輔",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ۓc 퐶i 2j",
-          "university": ""
+          "name": "丸田 弥生",
+          "university": "大阪大 理2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "i H3j",
-          "university": ""
+          "name": "村井 絢香",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "Rc i o2j",
-          "university": ""
+          "name": "山田 佳周",
+          "university": "大阪大 経済2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Ni bH3j",
-          "university": ""
+          "name": "大塚 康成",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "zib 1j",
-          "university": ""
+          "name": "吾妻 陽介",
+          "university": "甲南大 文1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "~c iLbg~[WbNJbW yrWlXU2j",
-          "university": ""
+          "name": "梅田 千雪",
+          "university": "キャットミュージックカレッジ専門 音楽ビジネス専攻2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ic ni bH3j",
-          "university": ""
+          "name": "永田 大地",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "vؓc i 2j",
-          "university": ""
+          "name": "久木田 亮",
+          "university": "大阪大 歯2"
         },
         {
-          "symbols": "",
+          "symbols": "◆",
           "instrument": "P",
-          "name": "? Di 3j",
-          "university": ""
+          "name": "? 優香",
+          "university": "大阪大 理3"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "B",
-          "name": "c ȁi 3j",
-          "university": ""
+          "name": "横田 純己",
+          "university": "大阪大 医3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "o mi bH3j",
-          "university": ""
+          "name": "塩出 剛士",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "~i o2j",
-          "university": ""
+          "name": "名取 淳",
+          "university": "大阪大 経済2"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "vؓc i 2j",
-          "university": ""
+          "name": "久木田 亮",
+          "university": "大阪大 歯2"
         }
       ]
     },
     {
       "year": 2008,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "Swing JournalЏ(4ʁj",
-      "soloPrize": "ciTs)ŗDG\\Xg",
+      "prize": "Swing Journal社賞(4位）",
+      "soloPrize": "當村（Ts)最優秀ソリスト賞",
       "imagePath": "NWJO_pics/2008.jpg",
       "musics": [
         "Dinner With Friends (Count Basie)",
@@ -1910,119 +2033,119 @@
       "url2": "",
       "members": [
         {
-          "symbols": "",
+          "symbols": "●",
           "instrument": "ASx",
-          "name": "R ^i 3j",
-          "university": ""
+          "name": "杉山 真吾",
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
           "instrument": "Asx",
-          "name": "F{ i o3j",
-          "university": ""
+          "name": "芳本 直樹",
+          "university": "大阪大 経済3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "c Mi 5j",
-          "university": ""
+          "name": "當村 邦明",
+          "university": "大阪大 文5"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "s쐣 Ii |p Z2j",
-          "university": ""
+          "name": "市野瀬 沙紀",
+          "university": " 大阪芸術大 短期大2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "J _ji H2j",
-          "university": ""
+          "name": "大谷 浩史",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tb",
+          "name": "平田 知恵",
+          "university": "大阪大 経済3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "c mbi o3j",
-          "university": ""
+          "name": "宮木 佑輔",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "{ Ci H2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "i H2j",
-          "university": ""
+          "name": "村井 絢香",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "c ki lԉ3j",
-          "university": ""
+          "name": "松田 耕",
+          "university": "大阪大 人間科3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "外池 誠基",
+          "university": "甲南大 経済3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Or ib o3j",
-          "university": ""
+          "name": "梅田 千雪",
+          "university": "キャットミュージックカレッジ専門 音楽ビジネス専攻1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "~c iLbg~[WbNJbW yrWlXU1j",
-          "university": ""
+          "name": "田畑 佑",
+          "university": "関西学院大 法2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c Ci֐w@ @2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "Ni bH2j",
-          "university": ""
+          "name": "大塚 康成",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "? Di 2j",
-          "university": ""
+          "name": "? 優香",
+          "university": "大阪大 理2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "i 3j",
-          "university": ""
+          "name": "川崎 亮",
+          "university": "大阪大 文3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "o mi bH2j",
-          "university": ""
+          "name": "塩出 剛士",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "e qsi H3j",
-          "university": ""
+          "name": "岩脇 智行",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "c Ci֐w@ @2j",
-          "university": ""
+          "name": "田畑 佑",
+          "university": "関西学院大 法2"
         }
       ]
     },
     {
       "year": 2007,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "ʏ(7)",
+      "prize": "特別賞(7位)",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2007.jpg",
       "musics": [
@@ -2036,117 +2159,117 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "F Yi H3j",
-          "university": ""
+          "name": "宇野 賢次郎",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "F{ i o2j",
-          "university": ""
+          "name": "芳本 直樹",
+          "university": "大阪大 経済2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "c K}i㋳ 2j",
-          "university": ""
+          "name": "小田 幸枝",
+          "university": "大阪教育大 教育2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "gi IYi bH2j",
-          "university": ""
+          "name": "吉永 悠一郎",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "R ^i 2j",
-          "university": ""
+          "name": "杉山 真吾",
+          "university": "大阪大 理2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tb",
+          "name": "大薮 真之祐",
+          "university": "大阪大 文3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "^VSi 3j",
-          "university": ""
+          "name": "浅井 諭",
+          "university": "大阪大 人間科2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "@i lԉ2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "{ 琰i 2j",
-          "university": ""
+          "name": "松本 千晴",
+          "university": "大阪大 文2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "c ki lԉ2j",
-          "university": ""
+          "name": "松田 耕",
+          "university": "大阪大 人間科2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Or ib o2j",
-          "university": ""
+          "name": "外池 誠基",
+          "university": "甲南大 経済2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "X Jqi 2j",
-          "university": ""
+          "name": "森川 寧子",
+          "university": "大阪大 文2"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tp",
+          "name": "長谷川 暢也",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "J i bH2j",
-          "university": ""
+          "name": "黒田 康嵩",
+          "university": "大阪大 工2"
         },
         {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "c Ni H2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "P",
-          "name": "{ bi lԉ3j",
-          "university": ""
+          "name": "橋本 利恵",
+          "university": "大阪大 人間科3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "c Yi lԉ2j",
-          "university": ""
+          "name": "岡田 雄大",
+          "university": "大阪大 人間科2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "i lԉ2j",
-          "university": ""
+          "name": "中西 健太",
+          "university": "大阪大 人間科2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "e qsi H2j",
-          "university": ""
+          "name": "岩脇 智行",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "J i bH2j",
-          "university": ""
+          "name": "長谷川 暢也",
+          "university": "大阪大 基礎工2"
         }
       ]
     },
     {
       "year": 2006,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "DG(3ʁj",
+      "prize": "優秀賞(3位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2006.jpg",
       "musics": [
@@ -2160,122 +2283,122 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "ۋ i H3j",
-          "university": ""
+          "name": "丸橋 温美",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "팴 li lԉ2j",
-          "university": ""
+          "name": "楠原 澄人",
+          "university": "大阪大 人間科2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "当村 邦明",
+          "university": "大阪大 文3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "Mi 3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "y Sqi֐ 2j",
-          "university": ""
+          "name": "土岐 祐子",
+          "university": "関西大 総合情報2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "F Yi H2j",
-          "university": ""
+          "name": "宇野 賢次郎",
+          "university": "大阪大 工2"
+        },
+        {
+          "symbols": "●",
+          "instrument": "Tb",
+          "name": "石川 洋輔",
+          "university": "大阪大 人間科4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ΐ mi lԉ4j",
-          "university": ""
+          "name": "大薮 真之祐",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "^VSi bH2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "Y điYƑ H3j",
-          "university": ""
+          "name": "西雄 翔大",
+          "university": "大阪産業大 工3"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "c LiXN[Iu~[WbN JbWy2j",
-          "university": ""
+          "name": "西田 有加里",
+          "university": "大阪スクールオブミュージック カレッジ音楽2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Or ib o1j",
-          "university": ""
+          "name": "外池 誠基",
+          "university": "甲南大 経済1"
+        },
+        {
+          "symbols": "◆",
+          "instrument": "Tp",
+          "name": "潤井 美耶子",
+          "university": "大阪大 文3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "qi 3j",
-          "university": ""
+          "name": "三尾 誠",
+          "university": "大阪大 文3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "O i 3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "X i 2j",
-          "university": ""
+          "name": "森安 未来",
+          "university": "大阪大 文2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "{ bi lԉ3j",
-          "university": ""
+          "name": "橋本 利恵",
+          "university": "大阪大 人間科3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "{ mi H2j",
-          "university": ""
+          "name": "岡本 洋平",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "c ^i @2j",
-          "university": ""
+          "name": "櫛田 拓真",
+          "university": "大阪大 法2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "ߐ{ đi 3j",
-          "university": ""
+          "name": "那須 翔太",
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "O i啶3j",
-          "university": ""
+          "name": "三尾 誠",
+          "university": "大阪大文3"
         }
       ]
     },
     {
       "year": 2005,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "i11ʁj",
+      "prize": "（11位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2005.jpg",
       "musics": [
         "Lazy Bird (C.U.G.J. O.)",
-        "Lament (czarr)",
+        "Lament (村田陽一arr)",
         "Evanology (Evan Rea)"
       ],
       "url1": "https://youtu.be/VcKHfMrSQXA",
@@ -2284,123 +2407,123 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "c Mi 2j",
-          "university": ""
+          "name": "當村 邦明",
+          "university": "大阪大 文2"
         },
         {
           "symbols": "",
-          "instrument": "kVh",
-          "name": "Fqi @2j",
-          "university": ""
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 法2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "aGi bH3j",
-          "university": ""
+          "name": "東 和宏",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
-          "instrument": "c",
-          "name": "Vi H2j",
-          "university": ""
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 工2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "ni bH3j",
-          "university": ""
+          "name": "児玉 瑞穗",
+          "university": "大阪大 基礎工3"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "Tb",
-          "name": "ΐ mi lԉ3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Rc",
-          "name": "qi H3j",
-          "university": ""
+          "name": "石川 洋輔",
+          "university": "大阪大 人間科3"
         },
         {
           "symbols": "",
           "instrument": "",
           "name": "",
-          "university": ""
+          "university": "大阪大 工3"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "eJ [i bH2j",
-          "university": ""
+          "name": "脇谷 啓介",
+          "university": "大阪大 基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Rai 3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "X",
-          "name": "",
-          "university": ""
+          "name": "小林 由和",
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
           "instrument": "",
           "name": "",
-          "university": ""
+          "university": "大阪大 理3"
         },
         {
           "symbols": "",
-          "instrument": "qi",
-          "name": "2j",
-          "university": ""
+          "instrument": "",
+          "name": "",
+          "university": "京都教育大 教育2"
         },
         {
           "symbols": "",
-          "instrument": "R",
-          "name": "mi bH3j",
-          "university": ""
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 文2"
+        },
+        {
+          "symbols": "",
+          "instrument": "",
+          "name": "",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "{ i H3j",
-          "university": ""
+          "name": "梶本 麻実",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "ac Fi o3j",
-          "university": ""
+          "name": "和田 明彦",
+          "university": "大阪大 経済3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "mi bH3j",
-          "university": ""
+          "name": "小串 洋介",
+          "university": "大阪大 基礎工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "m쌩 i H3j",
-          "university": ""
+          "name": "知野見 健太",
+          "university": "大阪大 工3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "c Vi H2j",
-          "university": ""
+          "name": "千田 尚之",
+          "university": "大阪大 工2"
         }
       ]
     },
     {
       "year": 2004,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "i17ʁj",
+      "prize": "（17位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2004.jpg",
       "musics": [
@@ -2415,123 +2538,123 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "ؓsqi3j",
-          "university": ""
+          "name": "柏原 菜都子",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Iqilԉ3j",
-          "university": ""
+          "name": "松下 明紀子",
+          "university": "人間科3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ioc2j",
-          "university": ""
+          "name": "日比 準二",
+          "university": "経営2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "Si3j",
-          "university": ""
+          "name": "中西 祐介",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "ibH2j",
-          "university": ""
+          "name": "児玉 瑞穂",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ΐ milԉ2j",
-          "university": ""
+          "name": "石川 洋輔",
+          "university": "人間科2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ѓc NibH2j",
-          "university": ""
+          "name": "飯田 哲也",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "i2j",
-          "university": ""
+          "name": "高橋 美佳",
+          "university": "薬2"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "BTb",
-          "name": "M ibH3j",
-          "university": ""
+          "name": "舟橋 大",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c Miɋ3j",
-          "university": ""
+          "name": "井田 信也",
+          "university": "兵庫教育大3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "X{ Bi2j",
-          "university": ""
+          "name": "森本 達也",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "啽 aOis1j",
-          "university": ""
+          "name": "大平 和弘",
+          "university": "京都教育大1"
+        },
+        {
+          "symbols": "◎",
+          "instrument": "Tp",
+          "name": "西田 圭佑",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c \\CibH3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "R mibH2j",
-          "university": ""
+          "name": "大山 洋",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "{ iH2j",
-          "university": ""
+          "name": "梶本 麻実",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "` GibH3j",
-          "university": ""
+          "name": "柿沼 卓宏",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "{ i3j",
-          "university": ""
+          "name": "岩本 拓",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "y Ɓi3j",
-          "university": ""
+          "name": "惣郷 顕哉",
+          "university": "理3"
         }
       ]
     },
     {
       "year": 2003,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "ʏ(6ʁj",
+      "prize": "特別賞(6位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2003.jpg",
       "musics": [
         "There Will Never Be Another You (Count Basie)",
-        "My Last Affair(Vo) (Quincy Jones)",
-        "It's All Right With Me(Vo) (Martie Paich)",
+        "My Last Affair (Vo) (Quincy Jones)",
+        "It's All Right With Me (Vo) (Martie Paich)",
         "Fancy Meeting You (Count Basie)"
       ],
       "url1": "https://youtu.be/EJg8tH8sEns",
@@ -2540,123 +2663,123 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "uilԉȊw3j",
-          "university": ""
+          "name": "大塚 健志",
+          "university": "人間科学3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Y ^i2j",
-          "university": ""
+          "name": "長浦 真美",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ɁiO4j",
-          "university": ""
+          "name": "小野 遼",
+          "university": "外国語4"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ᏼ TilԉȊw3j",
-          "university": ""
+          "name": "若松 典美",
+          "university": "人間科学3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "TiZ3j",
-          "university": ""
+          "name": "高居 裕香",
+          "university": "医短3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "qi@3j",
-          "university": ""
+          "name": "湯川 直子",
+          "university": "法3"
+        },
+        {
+          "symbols": "◎",
+          "instrument": "Tb",
+          "name": "徳岡 克也",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ibH3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "ѓc x}i㉹2j",
-          "university": ""
+          "name": "林田 悦枝",
+          "university": "大阪音大2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "M ibH2j",
-          "university": ""
+          "name": "舟橋 大",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "[ Tib2j",
-          "university": ""
+          "name": "加納 慎平",
+          "university": "甲南大2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "_J i@4j",
-          "university": ""
+          "name": "濱谷 聡一",
+          "university": "法4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c Miɋ2j",
-          "university": ""
+          "name": "井田 信也",
+          "university": "兵庫教育大2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c CibH2j",
-          "university": ""
+          "name": "西田 佳佑",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "ݖ{ i㉹3j",
-          "university": ""
+          "name": "岸本 亮",
+          "university": "大阪音大3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "LPi3j",
-          "university": ""
+          "name": "相磯 有輝",
+          "university": "文3"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "G",
-          "name": "iH3j",
-          "university": ""
+          "name": "酒井 大樹",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "Yc KGi㉹2j",
-          "university": ""
+          "name": "産田 幸宏",
+          "university": "大阪音大2"
         },
         {
           "symbols": "",
           "instrument": "Vo",
-          "name": "R iZ3j",
-          "university": ""
+          "name": "山下 未来",
+          "university": "医短3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "c Mi@2j",
-          "university": ""
+          "name": "井田 信他",
+          "university": "法2"
         }
       ]
     },
     {
       "year": 2002,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "(7ʁj",
+      "prize": "敢闘賞(7位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2002.jpg",
       "musics": [
@@ -2670,118 +2793,118 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Ό Tib2j",
-          "university": ""
+          "name": "石原 裕也",
+          "university": "甲南大2"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "X{ mEio3j",
-          "university": ""
+          "name": "森本 洋右",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "| qi4j",
-          "university": ""
+          "name": "大竹 亜矢子",
+          "university": "文4"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ᏼ T",
+          "name": "若松 典美",
           "university": ""
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "Ɂi3j",
-          "university": ""
+          "name": "入川 碧",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "x Tqi3j",
-          "university": ""
+          "name": "堀 裕美子",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "qi@2j",
-          "university": ""
+          "name": "湯川 直子",
+          "university": "法2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "iH2j",
-          "university": ""
+          "name": "徳岡 克也",
+          "university": "基工2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "r i2j",
-          "university": ""
+          "name": "荒木 正太",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "|c m]iZ3j",
-          "university": ""
+          "name": "竹田 知江",
+          "university": "医短3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "[ Tib1j",
-          "university": ""
+          "name": "加納 慎平",
+          "university": "甲南大1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ti@2j",
-          "university": ""
+          "name": "林 春美",
+          "university": "法2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c Miɋ1j",
-          "university": ""
+          "name": "井田 信也",
+          "university": "兵庫教育大1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ێR BYiH2j",
-          "university": ""
+          "name": "丸山 達郎",
+          "university": "基工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "Yi2j",
-          "university": ""
+          "name": "黒川 隆雄",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "͋`iH3j",
-          "university": ""
+          "name": "大鐘 章義",
+          "university": "基工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "[ miH3j",
-          "university": ""
+          "name": "国納 彰洋",
+          "university": "基工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "iH2j",
-          "university": ""
+          "name": "酒井 大樹",
+          "university": "工2"
         }
       ]
     },
     {
       "year": 2001,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "TBSWI(5ʁj",
-      "soloPrize": "܏\\iTb)DG\\Xg",
+      "prize": "TBSラジオ賞(5位）",
+      "soloPrize": "五十嵐（Tb)優秀ソリスト賞",
       "imagePath": "NWJO_pics/2001.jpg",
       "musics": [
         "Four, Five, Six (Count Basie)",
@@ -2795,111 +2918,111 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Ό Tib1j",
-          "university": ""
+          "name": "石原 裕也",
+          "university": "甲南大1"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Vc ₩i@3j",
-          "university": ""
+          "name": "新田 さやか",
+          "university": "法3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "大竹 亜矢子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "| qi3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "tiH3j",
-          "university": ""
+          "name": "西村 春美",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "gc DibH3j",
-          "university": ""
+          "name": "吉田 早織",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "܏\\ i֑4j",
-          "university": ""
+          "name": "五十嵐 誠",
+          "university": "関大4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Ԗ Lqi3j",
-          "university": ""
+          "name": "間野 有希子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "x Tqi2j",
-          "university": ""
+          "name": "堀 裕美子",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "i@1j",
-          "university": ""
+          "name": "濁川 政則",
+          "university": "法1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c Fib4j",
-          "university": ""
+          "name": "藤田 尚孝",
+          "university": "甲南大4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "qi3j",
-          "university": ""
+          "name": "早瀬 温子",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ڗqi3j",
-          "university": ""
+          "name": "佐伯 瑠理子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Y ^mqiH2j",
-          "university": ""
+          "name": "杭瀬 真知子",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "y ii3j",
-          "university": ""
+          "name": "土井 健司",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "SiH3j",
-          "university": ""
+          "name": "林 大祐",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "[ mibH2j",
-          "university": ""
+          "name": "国納 彰洋",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "iqiH3j",
-          "university": ""
+          "name": "小川 景子",
+          "university": "工3"
         }
       ]
     },
     {
       "year": 2000,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "Swing Journal(4ʁj",
+      "prize": "Swing Journal賞(4位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/2000.jpg",
       "musics": [
@@ -2914,112 +3037,112 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "c Pio3j",
-          "university": ""
+          "name": "奥田 善則",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "R i3j",
-          "university": ""
+          "name": "大山 茜",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "y ȌiH4j",
-          "university": ""
+          "name": "公楽 省吾",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "| qi2j",
-          "university": ""
+          "name": "大竹 亜矢子",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "v gio2j",
-          "university": ""
+          "name": "佐久間 揚介",
+          "university": "経2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "五十嵐 誠",
+          "university": "関大3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "܏\\ i֑3j",
-          "university": ""
+          "name": "藤原 聖",
+          "university": "経2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "io2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "Yi㉹3j",
-          "university": ""
+          "name": "生島 謙一郎",
+          "university": "大阪音大3"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "{ GiuЁj",
-          "university": ""
+          "name": "須沢 宏光",
+          "university": "同志社"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "זio4j",
-          "university": ""
+          "name": "岡野 泰明",
+          "university": "経4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "cNi4j",
-          "university": ""
+          "name": "小柳 慶朗",
+          "university": "京大4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "݁i㉹3j",
-          "university": ""
+          "name": "尾崎 あゆみ",
+          "university": "大阪音大3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "qi2j",
-          "university": ""
+          "name": "早瀬 温子",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "X qqi@3j",
-          "university": ""
+          "name": "森野 智子",
+          "university": "法3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "SiH2j",
-          "university": ""
+          "name": "林 大祐",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "܂Ɓio3j",
-          "university": ""
+          "name": "高岡 まこと",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "˖{ i3j",
-          "university": ""
+          "name": "塚本 直正",
+          "university": "理3"
         }
       ]
     },
     {
       "year": 1999,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "TBSWI(5ʁj",
-      "soloPrize": "yiTsjDG\\Xg",
+      "prize": "TBSラジオ賞(5位）",
+      "soloPrize": "公楽（Ts）優秀ソリスト賞",
       "imagePath": "NWJO_pics/1999.jpg",
       "musics": [
         "Sixteenmen Swingin' (Count Basie)",
@@ -3033,117 +3156,117 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "꒬ mi@3j",
-          "university": ""
+          "name": "一町 暢洋",
+          "university": "法3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "R i2j",
-          "university": ""
+          "name": "大山 茜",
+          "university": "文2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "公楽 省吾",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "y ȌiH3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "ؖ쑺 FiH3j",
-          "university": ""
+          "name": "木野村 明彦",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "c Pio2j",
-          "university": ""
+          "name": "奥田 善則",
+          "university": "経2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "܏\\ i֑2j",
-          "university": ""
+          "name": "五十嵐 誠",
+          "university": "関大2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Kqi3j",
-          "university": ""
+          "name": "藤井 幸子",
+          "university": "基3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Yi㉹2j",
-          "university": ""
+          "name": "生島 謙一郎",
+          "university": "大阪音大2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "iH3j",
-          "university": ""
+          "name": "水野 純",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "cNi3j",
-          "university": ""
+          "name": "小柳 慶朗",
+          "university": "京大3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "זio3j",
-          "university": ""
+          "name": "岡野 泰明",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "J Eio2j",
-          "university": ""
+          "name": "岩谷 勇治",
+          "university": "経2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c ti3j",
-          "university": ""
+          "name": "平田 千春",
+          "university": "薬3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "݁i㉹2j",
-          "university": ""
+          "name": "尾崎 あゆみ",
+          "university": "大阪音大2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "c Li3j",
-          "university": ""
+          "name": "西田 有里",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "OiH3j",
-          "university": ""
+          "name": "中野 弘巳",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "Lji2j",
-          "university": ""
+          "name": "香川 広史",
+          "university": "基2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "NYi3j",
-          "university": ""
+          "name": "塩見 哲雄",
+          "university": "文3"
         }
       ]
     },
     {
       "year": 1998,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "ʏ(7ʁj",
+      "prize": "特別賞(7位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1998.jpg",
       "musics": [
@@ -3158,128 +3281,128 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "ai4j",
-          "university": ""
+          "name": "藤井 雅和",
+          "university": "基4"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "ɓ qil3j",
-          "university": ""
+          "name": "伊藤 直子",
+          "university": "人3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "V qi3j",
-          "university": ""
+          "name": "石澤 愛子",
+          "university": "基3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "y ȌiH2j",
-          "university": ""
+          "name": "公楽 省吾",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "Ni3j",
-          "university": ""
+          "name": "大木 一朗",
+          "university": "基3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "佐藤 崇",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "iH3j",
-          "university": ""
+          "name": "松山 寿々子",
+          "university": "人3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "R Xqil3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "iH2j",
-          "university": ""
+          "name": "水野 純",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "쐤 Vi3j",
-          "university": ""
+          "name": "南畝 新平",
+          "university": "薬3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ꊰiH4j",
-          "university": ""
+          "name": "絹原 一寛",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "hViH3j",
-          "university": ""
+          "name": "浅川 敬之",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ˌ [i3j",
-          "university": ""
+          "name": "塚原 啓輔",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "cNi2j",
-          "university": ""
+          "name": "小柳 慶朗",
+          "university": "京大2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "זio2j",
-          "university": ""
+          "name": "岡野 泰明",
+          "university": "経2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "c Li2j",
-          "university": ""
+          "name": "西田 有里",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "O߁iH2j",
-          "university": ""
+          "name": "中野 弘已",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "i3j",
-          "university": ""
+          "name": "楢崎 亮",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "Mio3j",
-          "university": ""
+          "name": "高橋 政貴",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "ˌ [i3j",
-          "university": ""
+          "name": "塚原 啓輔",
+          "university": "文3"
         }
       ]
     },
     {
       "year": 1997,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "DG(2ʁj",
+      "prize": "優秀賞(2位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1997.jpg",
       "musics": [
         "Dinner With Friend (Count Basie)",
-        "Swing ShiftiUntitled Stomp) (Count Basie)",
+        "Swing Shift（Untitled Stomp) (Count Basie)",
         "The Gypsy (Quincy Jones)",
         "Airmail Special (Quincy Jones)"
       ],
@@ -3289,123 +3412,123 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Ö [i㉹4j",
-          "university": ""
+          "name": "古野 充晴",
+          "university": "大阪音大4"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "c Ni3j",
-          "university": ""
+          "name": "上田 功一朗",
+          "university": "薬3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "iH4j",
-          "university": ""
+          "name": "武鴨 聡",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "V ΁i3j",
-          "university": ""
+          "name": "小澤 千歳",
+          "university": "薬3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "aibH3j",
-          "university": ""
+          "name": "藤井 雅和",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "V i@3j",
-          "university": ""
+          "name": "澤 雅美",
+          "university": "法3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "R Xqil2j",
-          "university": ""
+          "name": "松山 寿々子",
+          "university": "人2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "쐤 Wi2j",
-          "university": ""
+          "name": "南畝 晋平",
+          "university": "薬2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "mViH3j",
-          "university": ""
+          "name": "安部 知之",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "WOi㉹5j",
-          "university": ""
+          "name": "小瀬 晃弘",
+          "university": "大阪音大5"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tp",
+          "name": "絹原 一寛",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ꊰiH3j",
-          "university": ""
+          "name": "紀田 征也",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Ic iH3j",
-          "university": ""
+          "name": "後藤 浩嗣",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "㓡 _kiH3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tp",
-          "name": "ˌ [i3j",
-          "university": ""
+          "name": "塚原 啓輔",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "{q qi3j",
-          "university": ""
+          "name": "本倉 聡子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "PIibH3j",
-          "university": ""
+          "name": "安部 善紀",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "@ ibH3j",
-          "university": ""
+          "name": "蓮井 樹生",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "i3j",
-          "university": ""
+          "name": "藤岡 聡介",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "mViH3j",
-          "university": ""
+          "name": "安部 知之",
+          "university": "工3"
         }
       ]
     },
     {
       "year": 1996,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "DG(2ʁj",
+      "prize": "優秀賞(2位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1996.jpg",
       "musics": [
@@ -3420,123 +3543,123 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "iH4j",
-          "university": ""
+          "name": "兼元 大",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "R iH3j",
-          "university": ""
+          "name": "高山 僚",
+          "university": "工3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "武嶋 聡",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "iH3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "眨i3j",
-          "university": ""
+          "name": "高木 千惠",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "i3j",
-          "university": ""
+          "name": "中南 寛道",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "^qil3j",
-          "university": ""
+          "name": "中尾 真樹子",
+          "university": "人3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "œc miH3j",
-          "university": ""
+          "name": "芝田 洋美",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "V i@2j",
-          "university": ""
+          "name": "澤 雅美",
+          "university": "法2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "mViH2j",
-          "university": ""
+          "name": "阿部 知之",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "WOi㉹4j",
-          "university": ""
+          "name": "小瀬 晃弘",
+          "university": "大阪音大4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i4j",
-          "university": ""
+          "name": "原 里緒",
+          "university": "文4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "TiH3j",
-          "university": ""
+          "name": "福原 慎也",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "qio3j",
-          "university": ""
+          "name": "上野 純子",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "io3j",
-          "university": ""
+          "name": "兵庫 一也",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ꊰiH2j",
-          "university": ""
+          "name": "絹原 一寛",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "Óc Ti3j",
-          "university": ""
+          "name": "古田 裕一",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "qiH3j",
-          "university": ""
+          "name": "西崎 智",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "Ti3j",
-          "university": ""
+          "name": "林 裕二",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "iH3j",
-          "university": ""
+          "name": "岡崎 隆治",
+          "university": "工3"
         }
       ]
     },
     {
       "year": 1995,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "ŗDG(1)",
+      "prize": "最優秀賞(1位)",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1995.jpg",
       "musics": [
@@ -3549,125 +3672,125 @@
       "url2": "https://youtu.be/LQ3XZ90rOvc",
       "members": [
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "ASx",
-          "name": "iH3j",
-          "university": ""
+          "name": "兼元 大",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Asx",
-          "name": "g \\Yi3j",
-          "university": ""
+          "name": "紅林 圭太郎",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R ^i@3j",
-          "university": ""
+          "name": "横山 真也",
+          "university": "法3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "mO [iH3j",
-          "university": ""
+          "name": "知念 充",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "GviH3j",
-          "university": ""
+          "name": "正岡 秀夫",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ribH4j",
-          "university": ""
+          "name": "平石 勝俊",
+          "university": "基礎工4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "_V qi3j",
-          "university": ""
+          "name": "垣之内 雅子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "^qilԉ2j",
-          "university": ""
+          "name": "中尾 真樹子",
+          "university": "人間科2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "œc miH2j",
-          "university": ""
+          "name": "芝田 洋美",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i OibH4j",
-          "university": ""
+          "name": "松永 弘明",
+          "university": "基礎工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ai㉹4j",
-          "university": ""
+          "name": "尹 和成",
+          "university": "大阪音大4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "WOi㉹3j",
-          "university": ""
+          "name": "小瀬 晃弘",
+          "university": "大阪音大3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ic qViH3j",
-          "university": ""
+          "name": "永田 智之",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "TiH2j",
-          "university": ""
+          "name": "福原 慎也",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "KiH3j",
-          "university": ""
+          "name": "笹 靖幸",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "L li3j",
-          "university": ""
+          "name": "有瀧 正人",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "gc ibH3j",
-          "university": ""
+          "name": "吉田 壱",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "aqi3j",
-          "university": ""
+          "name": "服部 佐和子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "g \\Yi3j",
-          "university": ""
+          "name": "紅林 圭太郎",
+          "university": "理3"
         }
       ]
     },
     {
       "year": 1995,
-      "band": "{ER Monkey Club Jazz Orchestra",
-      "prize": "(10ʁj",
+      "band": "日本E軍 Monkey Club Jazz Orchestra",
+      "prize": "奨励賞(10位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1995MCJO.jpg",
       "musics": [
@@ -3680,101 +3803,101 @@
       "members": [
         {
           "symbols": "",
-          "instrument": "ASx",
-          "name": "",
-          "university": ""
+          "instrument": "ASx/Cl",
+          "name": "中本 剛二",
+          "university": "文5"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "zq Fi3j",
-          "university": ""
+          "name": "越智 友佳理",
+          "university": "文3"
+        },
+        {
+          "symbols": "",
+          "instrument": "TSx/Cl",
+          "name": "上南 恵資",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "bi2j",
-          "university": ""
+          "name": "高木 千恵",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "i2j",
-          "university": ""
+          "name": "中南 寛道",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ribH4j",
-          "university": ""
+          "name": "平石 勝俊",
+          "university": "基礎工4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "^qilԉ2j",
-          "university": ""
+          "name": "中尾 真樹子",
+          "university": "人間科2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "V i@1j",
-          "university": ""
+          "name": "澤 雅美",
+          "university": "法1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "זi5j",
-          "university": ""
+          "name": "阿部 泰也",
+          "university": "理5"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ȒJ iH3j",
-          "university": ""
+          "name": "綿谷 寿美",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "k qi3j",
-          "university": ""
+          "name": "北 万弥子",
+          "university": "薬3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i3j",
-          "university": ""
+          "name": "中島 美帆",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "KiH3j",
-          "university": ""
+          "name": "笹 靖幸",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "PYi3j",
-          "university": ""
+          "name": "平松 恒雄",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "i3j",
-          "university": ""
+          "name": "村上 壽一",
+          "university": "理3"
         }
       ]
     },
     {
       "year": 1994,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "DG(3ʁj",
-      "soloPrize": "iTsjŗDG\\Xg",
+      "prize": "優秀賞(3位）",
+      "soloPrize": "日比野（Ts）最優秀ソリスト賞",
       "imagePath": "NWJO_pics/1994.jpg",
       "musics": [
         "A Square at The Roundtable (Count Basie)",
@@ -3788,123 +3911,123 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "i֑4j",
-          "university": ""
+          "name": "里村 稔",
+          "university": "関大4"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "qibH3j",
-          "university": ""
+          "name": "松井 治子",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "FilԉȊw3j",
-          "university": ""
+          "name": "日比野 則彦",
+          "university": "人間科学3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "io3j",
-          "university": ""
+          "name": "松村 悟美",
+          "university": "経済3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "iH2j",
-          "university": ""
+          "name": "兼元 大",
+          "university": "工2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "平石 勝俊",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ribH3j",
-          "university": ""
+          "name": "垣之内 雅子",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "_V qi2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "TR GibH2j",
-          "university": ""
+          "name": "亀山 忠秀",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "X ViH3j",
-          "university": ""
+          "name": "森 博之",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "זi4j",
-          "university": ""
+          "name": "阿部 泰也",
+          "university": "理4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "R{ MLi֑3j",
-          "university": ""
+          "name": "山本 信記",
+          "university": "関大3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Ji֑3j",
-          "university": ""
+          "name": "中嶋 労",
+          "university": "関大3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "q`iH3j",
-          "university": ""
+          "name": "小柳 智義",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "r ri@3j",
-          "university": ""
+          "name": "荒木 俊一",
+          "university": "法3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "[c ֎jibH2j",
-          "university": ""
+          "name": "深田 敦史",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "L li2j",
-          "university": ""
+          "name": "有瀧 正人",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "΋ Tio3j",
-          "university": ""
+          "name": "石橋 裕基",
+          "university": "経済3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "aqi2j",
-          "university": ""
+          "name": "服部 佐和子",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "Ji֑3j",
-          "university": ""
+          "name": "中嶋 労",
+          "university": "関大3"
         }
       ]
     },
     {
       "year": 1994,
-      "band": "{ER Monkey Club Jazz Orchestra",
-      "prize": "Swing Journal(4ʁj",
+      "band": "日本E軍 Monkey Club Jazz Orchestra",
+      "prize": "Swing Journal賞(4位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1994MCJO.jpg",
       "musics": [
@@ -3917,108 +4040,108 @@
       "url2": "https://youtu.be/VmLhuHYXp7E",
       "members": [
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "ASx",
-          "name": "{ i4j",
-          "university": ""
+          "name": "中本 剛二",
+          "university": "文4"
         },
         {
           "symbols": "",
           "instrument": "Asx",
-          "name": "qiH3j",
-          "university": ""
+          "name": "小林 元子",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R{ ilԉ4j",
-          "university": ""
+          "name": "山本 拓",
+          "university": "人間科4"
         },
         {
           "symbols": "",
-          "instrument": "TSx",
-          "name": "",
-          "university": ""
+          "instrument": "TSx/Cl",
+          "name": "上南 ケイジ",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "qfLilԉ3j",
-          "university": ""
+          "name": "西條 ヒデキ",
+          "university": "人間科3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "[[ ΁ibH3j",
-          "university": ""
+          "name": "ヤーヤー 平石",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Philip XSiH3j",
-          "university": ""
+          "name": "Philip 森S",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "^qilԉ1j",
-          "university": ""
+          "name": "中尾 真樹子",
+          "university": "人間科1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Plunger i4j",
-          "university": ""
+          "name": "Plunger 阿部",
+          "university": "理4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "NiH4j",
-          "university": ""
+          "name": "安藤 哲也",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Cat io3j",
-          "university": ""
+          "name": "Cat 鳥見",
+          "university": "経済3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c zqilԉ3j",
-          "university": ""
+          "name": "小田 陽子",
+          "university": "人間科3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "KiH2j",
-          "university": ""
+          "name": "笹 靖幸",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "cK i4j",
-          "university": ""
+          "name": "田尻 元希",
+          "university": "文4"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "[iH3j",
-          "university": ""
+          "name": "末次 利充",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "ΐ ܉Eqi@2j",
-          "university": ""
+          "name": "石川 五右衛門",
+          "university": "法2"
         }
       ]
     },
     {
       "year": 1993,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "DG(3ʁj",
-      "soloPrize": "iTsjDG\\Xg",
+      "prize": "優秀賞(3位）",
+      "soloPrize": "里村（Ts）優秀ソリスト賞",
       "imagePath": "NWJO_pics/1993.jpg",
       "musics": [
         "Fancy Meeting You (Count Basie)",
@@ -4032,135 +4155,135 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "io4j",
-          "university": ""
+          "name": "長井 稔",
+          "university": "経済4"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Xd bqi3j",
-          "university": ""
+          "name": "森重 恵美子",
+          "university": "歯3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "TSx",
+          "name": "里村 稔",
+          "university": "関大法3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "i֑@3j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "TSx",
-          "name": "R{ ilԉ3j",
-          "university": ""
+          "name": "山本 拓",
+          "university": "人間科3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "P PibH3j",
-          "university": ""
+          "name": "恒川 直輝",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "i4j",
-          "university": ""
+          "name": "浅川 尚樹",
+          "university": "文4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "X ViH2j",
-          "university": ""
+          "name": "森 博之",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ribH2j",
-          "university": ""
+          "name": "平石 勝俊",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "{ i4j",
-          "university": ""
+          "name": "本橋 克",
+          "university": "文4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "㑺 iH4j",
-          "university": ""
+          "name": "上村 光生",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "זi3j",
-          "university": ""
+          "name": "阿部 泰也",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i OibH3j",
-          "university": ""
+          "name": "松永 弘明",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "NiH3j",
-          "university": ""
+          "name": "安藤 哲也",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "R{ MLi֑@2j",
-          "university": ""
+          "name": "山本 信記",
+          "university": "関大法2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Ji֑o2j",
-          "university": ""
+          "name": "中嶋 労",
+          "university": "関大経済2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "d ͎qilԉ3j",
-          "university": ""
+          "name": "重清 章子",
+          "university": "人間科3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "ʑ wiH3j",
-          "university": ""
+          "name": "玉村 学",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "jY iH3j",
-          "university": ""
+          "name": "桂浦 誠",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "Dio3j",
-          "university": ""
+          "name": "奥井 香織",
+          "university": "経済3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "qi@3j",
-          "university": ""
+          "name": "国光 靖子",
+          "university": "法3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "iH1j",
-          "university": ""
+          "name": "兼元 大",
+          "university": "工1"
         }
       ]
     },
     {
       "year": 1992,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "R܁iW)",
+      "prize": "審査員賞（８位)",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1992.jpg",
       "musics": [
@@ -4172,131 +4295,131 @@
       "url2": "https://youtu.be/Hdb7KTqJqQ4",
       "members": [
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "ASx",
-          "name": "io3j",
-          "university": ""
+          "name": "長井 稔",
+          "university": "経済3"
         },
         {
           "symbols": "",
           "instrument": "Asx",
-          "name": "Rc hYi3j",
-          "university": ""
+          "name": "山田 栄太郎",
+          "university": "薬3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "i3j",
-          "university": ""
+          "name": "小南 勝也",
+          "university": "薬3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "i֑@ 2j",
-          "university": ""
+          "name": "里村 稔",
+          "university": "関大法 2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "͑ ilԉ4j",
-          "university": ""
+          "name": "河村 亮介",
+          "university": "人間科4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "R a]iH4j",
-          "university": ""
+          "name": "横山 和江",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "i3j",
-          "university": ""
+          "name": "浅川 尚樹",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "c i2j",
-          "university": ""
+          "name": "寺田 博一",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "{ i 3j",
-          "university": ""
+          "name": "本橋 克",
+          "university": "文 3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ic LLibH5j",
-          "university": ""
+          "name": "永田 有広",
+          "university": "基礎工5"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "s CiH4j",
-          "university": ""
+          "name": "市川 修",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "k ֑i@3j",
-          "university": ""
+          "name": "北野 敦則",
+          "university": "法3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "㑺 iH3j",
-          "university": ""
+          "name": "上村 光生",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "זi2j",
-          "university": ""
+          "name": "阿部 泰也",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "{ qi@3j",
-          "university": ""
+          "name": "橋本 京子",
+          "university": "法3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "ʑ wiH2j",
-          "university": ""
+          "name": "玉村 学",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "jY iH2j",
-          "university": ""
+          "name": "桂浦 誠",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "O 吶iH3j",
-          "university": ""
+          "name": "三井 大生",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "R aqilԉ2j",
-          "university": ""
+          "name": "岡山 希和子",
+          "university": "人間科2"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "d ͎qilԉ2j",
-          "university": ""
+          "name": "重清 章子",
+          "university": "人間科2"
         }
       ]
     },
     {
       "year": 1991,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "(10ʁj",
+      "prize": "奨励賞(10位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1991.jpg",
       "musics": [
@@ -4311,129 +4434,129 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "io2j",
-          "university": ""
+          "name": "長井 稔",
+          "university": "経2"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "uiH3j",
-          "university": ""
+          "name": "原 武志",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "ibH3j",
-          "university": ""
+          "name": "湯藤 潤",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R ilԉ3j",
-          "university": ""
+          "name": "徳山 佳樹",
+          "university": "人間科3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "͑ ilԉ3j",
-          "university": ""
+          "name": "河村 亮介",
+          "university": "人間科3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ᐙ li4j",
-          "university": ""
+          "name": "若杉 幹人",
+          "university": "理4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "R a]iH3j",
-          "university": ""
+          "name": "横山 和江",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "i2j",
-          "university": ""
+          "name": "浅川 尚樹",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "{ i2j",
-          "university": ""
+          "name": "本橋 克",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ic LLibH4j",
-          "university": ""
+          "name": "永田 有広",
+          "university": "基礎工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ljilԉ4j",
-          "university": ""
+          "name": "安部 人史",
+          "university": "人間科4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "s CiH3j",
-          "university": ""
+          "name": "市川 修",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "q TYibH3j",
-          "university": ""
+          "name": "牧 慎一郎",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "k ֑i@2j",
-          "university": ""
+          "name": "北野 敦則",
+          "university": "法2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "זi1j",
-          "university": ""
+          "name": "阿部 泰也",
+          "university": "理1"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "qibH3j",
-          "university": ""
+          "name": "日野上 麗子",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "V ri3j",
-          "university": ""
+          "name": "澤井 俊博",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "s i3j",
-          "university": ""
+          "name": "市橋 隆",
+          "university": "理3"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "G",
-          "name": "| Mi@3j",
-          "university": ""
+          "name": "竹村 政信",
+          "university": "法3"
         }
       ]
     },
     {
       "year": 1990,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "ʏ(6ʁj",
-      "soloPrize": "YZNV(R܁j",
+      "prize": "特別賞(6位）",
+      "soloPrize": "リズムセクション(審査員賞）",
       "imagePath": "NWJO_pics/1990.jpg",
       "musics": [
         "Stereophonic (Count Basie)",
         "Corner Pocket (Count Basie)",
-        "Rollen'PeteiVo) (Count Basie)",
+        "Rollen'Pete（Vo) (Count Basie)",
         "Blee Blop Blues (Count Basie)"
       ],
       "url1": "https://youtu.be/d4gVq0Hi_G4",
@@ -4442,127 +4565,127 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "X i3j",
-          "university": ""
+          "name": "佐々木 数",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "uiH2j",
-          "university": ""
+          "name": "原 武志",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "pio4j",
-          "university": ""
+          "name": "直井 英樹",
+          "university": "経4"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "i 2j",
-          "university": ""
+          "name": "湯藤 潤",
+          "university": "基 2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "Ɗ_ gFil4j",
-          "university": ""
+          "name": "家垣 吉孝",
+          "university": "人4"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "若杉 幹人",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ᐙ li3j",
-          "university": ""
+          "name": "清原 佐知子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "mqi3j",
-          "university": ""
+          "name": "横山 和江",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "R a]iH2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "{ i1j",
-          "university": ""
+          "name": "本橋 克",
+          "university": "文1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c pii4j",
-          "university": ""
+          "name": "岩田 英司",
+          "university": "理4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ic LLi3j",
-          "university": ""
+          "name": "永田 有広",
+          "university": "基3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ގqi 3j",
-          "university": ""
+          "name": "林 可奈子",
+          "university": "理 3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ljil3j",
-          "university": ""
+          "name": "安部 人史",
+          "university": "人3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "s CiH2j",
-          "university": ""
+          "name": "市川 修",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "zqi3j",
-          "university": ""
+          "name": "鈴木 陽子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "k qi3j",
-          "university": ""
+          "name": "北野 恭子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "쐣 Vi2j",
-          "university": ""
+          "name": "川瀬 克之",
+          "university": "基2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "吼 Ni3j",
-          "university": ""
+          "name": "大西 哲",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Vo",
-          "name": "V kiiM1j",
+          "name": "新村 耕司",
+          "university": "基M1"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "北野 敦則",
           "university": ""
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "k ֑",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "MC",
-          "name": "",
+          "name": "小南 勝也",
           "university": ""
         }
       ]
@@ -4570,13 +4693,13 @@
     {
       "year": 1989,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "DG(2)",
+      "prize": "優秀賞(2位)",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1989.jpg",
       "musics": [
         "Sixteenmen Swingin' (Count Basie)",
         "Blues In Hoss Flat (Count Basie)",
-        "Almost Like Being In Love(Vo) (Nat ColeiVo))",
+        "Almost Like Being In Love (Vo) (Nat Cole（Vo))",
         "Basie (Count Basie)"
       ],
       "url1": "https://youtu.be/0uneAyp-qk4",
@@ -4585,127 +4708,127 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "_uiH4j",
-          "university": ""
+          "name": "高木 浩志",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "v i2j",
-          "university": ""
+          "name": "佐久木 数",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "av Fi4j",
-          "university": ""
+          "name": "和久 治彦",
+          "university": "文4"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "pio3j",
-          "university": ""
+          "name": "直井 英樹",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "Ɗ_ gFil3j",
-          "university": ""
+          "name": "家垣 吉孝",
+          "university": "人3"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "丸山 和則",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ێR ai3j",
-          "university": ""
+          "name": "坂下 浩敏",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "≺ _qi3j",
-          "university": ""
+          "name": "清原 佐知子",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "mqi2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "ᐙ li2j",
-          "university": ""
+          "name": "若杉 幹人",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c pii3j",
-          "university": ""
+          "name": "岩田 英司",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Yi3j",
-          "university": ""
+          "name": "寺原 太郎",
+          "university": "基3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "J LiH3j",
-          "university": ""
+          "name": "長谷川 伸二",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c zqio3j",
-          "university": ""
+          "name": "太田 陽子",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ic LLi2j",
-          "university": ""
+          "name": "永田 有広",
+          "university": "基2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "zqi2j",
-          "university": ""
+          "name": "鈴木 陽子",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "Yi3j",
-          "university": ""
+          "name": "松村 雄二",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "ؑ DYi@@j",
-          "university": ""
+          "name": "木村 優一郎",
+          "university": "　　"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "c Lio2j",
-          "university": ""
+          "name": "園田 豊",
+          "university": "経2"
         },
         {
           "symbols": "",
           "instrument": "Vo",
-          "name": "J i勳3j",
+          "name": "谷 美加",
+          "university": "大教大3"
+        },
+        {
+          "symbols": "",
+          "instrument": "MC",
+          "name": "三宅 泰裕",
           "university": ""
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "O חT",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "MC",
-          "name": "R",
+          "name": "西山 美保",
           "university": ""
         }
       ]
@@ -4713,7 +4836,7 @@
     {
       "year": 1988,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "R܁iW)",
+      "prize": "審査員賞（８位)",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1988.jpg",
       "musics": [
@@ -4728,123 +4851,123 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "_uiH3j",
-          "university": ""
+          "name": "高木 浩志",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "mqi3j",
-          "university": ""
+          "name": "鈴木 洋子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R ہi勳3j",
-          "university": ""
+          "name": "西山 美保",
+          "university": "大教大3"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "TSx",
-          "name": "av Fi3j",
-          "university": ""
+          "name": "和久 治彦",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "Ɗ_ gFil2j",
-          "university": ""
+          "name": "家垣 吉孝",
+          "university": "人2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "xuiH4j",
-          "university": ""
+          "name": "駒野 岳志",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "L ibH4j",
-          "university": ""
+          "name": "広兼 剛",
+          "university": "基礎工4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ێR ai2j",
-          "university": ""
+          "name": "丸山 和則",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "mqi1j",
-          "university": ""
+          "name": "清原 佐知子",
+          "university": "文1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ NiH4j",
-          "university": ""
+          "name": "本岡 朗",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c pii2j",
-          "university": ""
+          "name": "岩田 英司",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "liH4j",
-          "university": ""
+          "name": "横沢 晶人",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "YibH2j",
-          "university": ""
+          "name": "寺原 太郎",
+          "university": "基礎工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "J LiH2j",
-          "university": ""
+          "name": "長谷川 伸二",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ic LLibH1j",
-          "university": ""
+          "name": "永田 有広",
+          "university": "基礎工1"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "vqi4j",
-          "university": ""
+          "name": "鈴木 久美子",
+          "university": "文4"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "c ibH3j",
-          "university": ""
+          "name": "島田 尊",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "qYiZ3j",
-          "university": ""
+          "name": "野崎 敏郎",
+          "university": "医短3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "O חTi3j",
-          "university": ""
+          "name": "三宅 泰裕",
+          "university": "医3"
         }
       ]
     },
     {
       "year": 1987,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "Swing Journal(4ʁj",
+      "prize": "Swing Journal賞(4位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1987.jpg",
       "musics": [
@@ -4859,110 +4982,110 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "_uiH2j",
-          "university": ""
+          "name": "高木 浩志",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "mqi2j",
-          "university": ""
+          "name": "鈴木 洋子",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "av Fi2j",
-          "university": ""
+          "name": "和久 治彦",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "L io3j",
-          "university": ""
+          "name": "広瀬 誠",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "|c ρiH3j",
-          "university": ""
+          "name": "竹田 均",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "xuiH4j",
-          "university": ""
+          "name": "駒野 岳志",
+          "university": "工4"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "広兼 剛",
+          "university": "基3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "L i3j",
-          "university": ""
+          "name": "丸山 和則",
+          "university": "理1"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ێR ai1j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "diM1j",
-          "university": ""
+          "name": "西村 重徳",
+          "university": "理M1"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "liH4j",
-          "university": ""
+          "name": "横沢 晶人",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i3j",
-          "university": ""
+          "name": "岡村 靖道",
+          "university": "基3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ NiH3j",
-          "university": ""
+          "name": "本岡 朗",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "s iH3j",
-          "university": ""
+          "name": "不二章 教治",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c pii1j",
-          "university": ""
+          "name": "岩田 英司",
+          "university": "理1"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "c i2j",
-          "university": ""
+          "name": "田島 雅美",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "Vi3j",
-          "university": ""
+          "name": "鹿野 新吾",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "io3j",
-          "university": ""
+          "name": "岡部 潤也",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "il3j",
-          "university": ""
+          "name": "矢野 元",
+          "university": "人3"
         }
       ]
     },
@@ -4970,7 +5093,7 @@
       "year": 1986,
       "band": "The New Wave Jazz Orchestra",
       "prize": "",
-      "soloPrize": "؎iAs)DG\\Xg",
+      "soloPrize": "切手（As)優秀ソリスト賞",
       "imagePath": "NWJO_pics/1986.jpg",
       "musics": [
         "Ya Gatta Try (Buddy Rich)",
@@ -4983,128 +5106,128 @@
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "liH3j",
-          "university": ""
+          "name": "横沢 晶人",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ NiH2j",
-          "university": ""
+          "name": "本岡 朗",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i2j",
-          "university": ""
+          "name": "岡村 晴道",
+          "university": "基2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "s iH2j",
-          "university": ""
+          "name": "不二葦 教治",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i3j",
-          "university": ""
+          "name": "合屋 将",
+          "university": "医3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "gc NViH3j",
-          "university": ""
+          "name": "吉田 哲之",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "di4j",
-          "university": ""
+          "name": "西村 重徳",
+          "university": "理4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "mGi4j",
-          "university": ""
+          "name": "寺島 知秀",
+          "university": "基4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "xuiH3j",
-          "university": ""
+          "name": "駒野 岳志",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "L i2j",
-          "university": ""
+          "name": "広兼 剛",
+          "university": "基2"
         },
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "ASx",
-          "name": "؎ il3j",
-          "university": ""
+          "name": "切手 崇博",
+          "university": "人3"
         },
         {
           "symbols": "",
           "instrument": "Asx",
-          "name": "c miH3j",
-          "university": ""
+          "name": "西田 洋一",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "GiH3j",
-          "university": ""
+          "name": "今西 秀樹",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "g cqi3j",
-          "university": ""
+          "name": "吉野 慶子",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "|c ρiH2j",
-          "university": ""
+          "name": "竹田 均",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Pf",
-          "name": "Ti2j",
-          "university": ""
+          "name": "生島 裕文",
+          "university": "医2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "il2j",
-          "university": ""
+          "name": "矢野 元",
+          "university": "人2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "ߓ jNiH3j",
-          "university": ""
+          "name": "近藤 史朗",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "liH3j",
-          "university": ""
+          "name": "林 昭人",
+          "university": "工3"
         }
       ]
     },
     {
       "year": 1985,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "R܁iW)",
+      "prize": "審査員賞（８位)",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1985.jpg",
       "musics": [
         "Mean What You Say (Thad Mel)",
-        "Little Pixie U (Thad Mel)"
+        "Little Pixie Ⅱ (Thad Mel)"
       ],
       "url1": "http://www.youtube.com/watch?v=yRsfw-JtGzY",
       "url2": "http://www.youtube.com/watch?v=dZRSdEsOmkg",
@@ -5112,124 +5235,124 @@
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ iH4j",
-          "university": ""
+          "name": "本多 一光",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "MViH3j",
-          "university": ""
+          "name": "水上 貴之",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "silԉȊw3j",
-          "university": ""
+          "name": "平崎 鋭矢",
+          "university": "人間科学3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c ͌iH3j",
-          "university": ""
+          "name": "岩田 章吾",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "liH2j",
-          "university": ""
+          "name": "横沢 晶人",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i2j",
-          "university": ""
+          "name": "合屋 将",
+          "university": "医2"
+        },
+        {
+          "symbols": "★",
+          "instrument": "Tb",
+          "name": "西村 重徳",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "di3j",
-          "university": ""
+          "name": "寺島 知秀",
+          "university": "基礎工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "mGibH3j",
-          "university": ""
+          "name": "駒野 岳志",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "xuiH2j",
-          "university": ""
-        },
-        {
-          "symbols": "",
-          "instrument": "Tb",
-          "name": "L ibH1j",
-          "university": ""
+          "name": "広兼 剛",
+          "university": "基礎工1"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "؎ ilԉȊw2j",
-          "university": ""
+          "name": "切手 崇博",
+          "university": "人間科学2"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "c miH2j",
-          "university": ""
+          "name": "西田 洋一",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "GiH2j",
-          "university": ""
+          "name": "今西 秀樹",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "g cqi2j",
-          "university": ""
+          "name": "吉野 慶子",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "|c ρiH1j",
-          "university": ""
+          "name": "竹田 均",
+          "university": "工1"
         },
         {
           "symbols": "",
           "instrument": "Pf",
-          "name": "ic ^ȎqilԉȊw3j",
-          "university": ""
+          "name": "永田 真己子",
+          "university": "人間科学3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "R ri2j",
-          "university": ""
+          "name": "山村 雅俊",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "c Gio3j",
-          "university": ""
+          "name": "田中 秀樹",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "i MVibH3j",
-          "university": ""
+          "name": "福永 貴之",
+          "university": "基礎工3"
         }
       ]
     },
     {
       "year": 1984,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "TBSWI(5ʁj",
-      "soloPrize": "ciVo)R",
+      "prize": "TBSラジオ賞(5位）",
+      "soloPrize": "上田（Vo)審査員賞",
       "imagePath": "NWJO_pics/1984.jpg",
       "musics": [
         "Wind Machine (Count Basie)",
@@ -5240,249 +5363,249 @@
       "url2": "",
       "members": [
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "Tp",
-          "name": "{ iH3j",
-          "university": ""
+          "name": "本多 一光",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "X i3j",
-          "university": ""
+          "name": "森 貞",
+          "university": "文3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "⋴ i2j",
-          "university": ""
+          "name": "岩橋 博見",
+          "university": "医2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "liH1j",
-          "university": ""
+          "name": "横沢 晶人",
+          "university": "工1"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Fi4j",
-          "university": ""
+          "name": "佐野 幹彦",
+          "university": "基4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "mGi2j",
-          "university": ""
+          "name": "寺島 知秀",
+          "university": "基2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "di2j",
-          "university": ""
+          "name": "西村 重徳",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "BTb",
-          "name": "V ki4j",
-          "university": ""
+          "name": "新藤 耕",
+          "university": "基4"
         },
         {
           "symbols": "",
           "instrument": "Asx",
-          "name": "؎ il1j",
-          "university": ""
+          "name": "切手 崇博",
+          "university": "人1"
         },
         {
           "symbols": "",
           "instrument": "Asx",
-          "name": "i5j",
-          "university": ""
+          "name": "西塔 治",
+          "university": "歯5"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R{ ji3j",
-          "university": ""
+          "name": "山本 一男",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "x iM1j",
-          "university": ""
+          "name": "堀 靖",
+          "university": "理M1"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "Bil2j",
-          "university": ""
+          "name": "井上 達也",
+          "university": "人2"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "io3j",
-          "university": ""
+          "name": "小磯 潮",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "l xjiHM1j",
-          "university": ""
+          "name": "浜崎 岳史",
+          "university": "工M1"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "V Pi3j",
-          "university": ""
+          "name": "大澤 善樹",
+          "university": "基3"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "X mFiH3j",
-          "university": ""
+          "name": "森 知彦",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Vo",
-          "name": "c bi_ˎsO啶4j",
-          "university": ""
+          "name": "上田 美恵",
+          "university": "神戸市外大文4"
         }
       ]
     },
     {
       "year": 1983,
       "band": "The New Wave Jazz Orchestra",
-      "prize": "Swing Journal(4ʁj",
+      "prize": "Swing Journal賞(4位）",
       "soloPrize": "",
       "imagePath": "NWJO_pics/1983.jpg",
       "musics": [
         "Heat's On (Count Basie)",
         "Hay Burner (Count Basie)",
-        "Satin Doll (Ocjarr)",
-        "TJF'83 (Ocjoriginal)"
+        "Satin Doll (前田憲男arr)",
+        "TJF'83 (前田憲男original)"
       ],
       "url1": "https://youtu.be/HDdgLZT0fS4",
       "url2": "",
       "members": [
         {
-          "symbols": "",
+          "symbols": "★",
           "instrument": "P",
-          "name": "R iH3j",
-          "university": ""
+          "name": "幡山 靖",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "O rOio4j",
-          "university": ""
+          "name": "前 俊弘",
+          "university": "経4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "ÎR wiH4j",
-          "university": ""
+          "name": "津山 努",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c piH4j",
-          "university": ""
+          "name": "原田 英二",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "Gi4j",
-          "university": ""
+          "name": "白川 忠秀",
+          "university": "基4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "{ iH2j",
-          "university": ""
+          "name": "本多 一光",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "X i2j",
-          "university": ""
+          "name": "森 貞",
+          "university": "文2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "Fi3j",
-          "university": ""
+          "name": "佐野 幹彦",
+          "university": "基3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "V ki4j",
-          "university": ""
+          "name": "新藤 耕",
+          "university": "基4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "ii֑o3j",
-          "university": ""
+          "name": "酒井 雅司",
+          "university": "関大経3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "mGi1j",
-          "university": ""
+          "name": "寺島 知秀",
+          "university": "基1"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "㓡 ^il4j",
-          "university": ""
+          "name": "後藤 真一",
+          "university": "人4"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "Fsi啶1j",
-          "university": ""
+          "name": "松原 孝行",
+          "university": "阪南大文1"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "x i4j",
-          "university": ""
+          "name": "堀 靖",
+          "university": "理4"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "R{ ji2j",
-          "university": ""
+          "name": "山本 一男",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "X iH4j",
-          "university": ""
+          "name": "佐々木 誠",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "MiH3j",
-          "university": ""
+          "name": "字根崎 博信",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "Gvi3j",
-          "university": ""
+          "name": "加藤 秀夫",
+          "university": "基3"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "io2j",
-          "university": ""
+          "name": "小磯 潮",
+          "university": "経2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "X mFiH2j",
-          "university": ""
+          "name": "森 知彦",
+          "university": "工2"
         }
       ]
     },
@@ -5503,116 +5626,116 @@
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "㓡 ^il2j",
-          "university": ""
+          "name": "後藤 真一",
+          "university": "人科2"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "i2j",
-          "university": ""
+          "name": "西塔 治",
+          "university": "歯2"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "s i4j",
-          "university": ""
+          "name": "市川 肇",
+          "university": "医4"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "x i2j",
-          "university": ""
+          "name": "堀 靖",
+          "university": "理2"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "́iH2j",
-          "university": ""
+          "name": "高畠 章",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "c Gi@4j",
-          "university": ""
+          "name": "武田 雅宏",
+          "university": "法4"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "Óc _i4j",
-          "university": ""
+          "name": "古田 浩",
+          "university": "医4"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "l mio2j",
-          "university": ""
+          "name": "四方 洋",
+          "university": "経2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "N߁iH3j",
-          "university": ""
+          "name": "大隅 康令",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "l xjiH2j",
-          "university": ""
+          "name": "浜崎 岳史",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i5j",
-          "university": ""
+          "name": "城崎 潔",
+          "university": "医5"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "R Kio4j",
-          "university": ""
+          "name": "中山 幸治",
+          "university": "経4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "X mi4j",
-          "university": ""
+          "name": "森岡 洋介",
+          "university": "理4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "O rOio2j",
-          "university": ""
+          "name": "前 俊弘",
+          "university": "経2"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "iH2j",
-          "university": ""
+          "name": "酒井 勝也",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "哇 iH4j",
-          "university": ""
+          "name": "大島 純",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "GiH3j",
-          "university": ""
+          "name": "西村 文宏",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "V kiH2j",
-          "university": ""
+          "name": "新藤 耕",
+          "university": "基工2"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "FiH1j",
-          "university": ""
+          "name": "佐野 幹彦",
+          "university": "基工1"
         }
       ]
     },
@@ -5620,12 +5743,12 @@
       "year": 1980,
       "band": "The New Wave Jazz Orchestra",
       "prize": "",
-      "soloPrize": "iB)R",
+      "soloPrize": "中島（B)審査員賞",
       "imagePath": "NWJO_pics/1980.jpg",
       "musics": [
         "Blues Around The Corner",
         "Mean What You Say (Thad Mel)",
-        "Impressions (NHiR؍KOYj)"
+        "Impressions (NH（山木幸三郎）)"
       ],
       "url1": "https://youtu.be/RNlooiS0LGc",
       "url2": "",
@@ -5633,110 +5756,110 @@
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "s i3j",
-          "university": ""
+          "name": "市川 肇",
+          "university": "医3"
         },
         {
           "symbols": "",
           "instrument": "TSx",
-          "name": "Έ viH3j",
-          "university": ""
+          "name": "石井 光夫",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "|V iH3j",
-          "university": ""
+          "name": "竹之内 健",
+          "university": "工3"
         },
         {
           "symbols": "",
           "instrument": "ASx",
-          "name": "㓡 ^il1j",
-          "university": ""
+          "name": "後藤 真一",
+          "university": "人科1"
         },
         {
           "symbols": "",
           "instrument": "BSx",
-          "name": "{ LiH4j",
-          "university": ""
+          "name": "橋本 伸",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "i4j",
-          "university": ""
+          "name": "城崎 潔",
+          "university": "医4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "c ^iH4j",
-          "university": ""
+          "name": "太田 真輔",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "R Kio3j",
-          "university": ""
+          "name": "中山 幸治",
+          "university": "経3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "X mi3j",
-          "university": ""
+          "name": "森岡 洋介",
+          "university": "理3"
         },
         {
           "symbols": "",
           "instrument": "Tp",
-          "name": "O rOio1j",
-          "university": ""
+          "name": "前 俊弘",
+          "university": "経1"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "哇 iH4j",
-          "university": ""
+          "name": "大島 純",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "YiH4j",
-          "university": ""
+          "name": "島川 佳郎",
+          "university": "工4"
         },
         {
           "symbols": "",
           "instrument": "Tb",
-          "name": "GiH2j",
-          "university": ""
+          "name": "西村 文宏",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "D",
-          "name": "c Gi@4j",
-          "university": ""
+          "name": "武田 雅宏",
+          "university": "法4"
         },
         {
           "symbols": "",
           "instrument": "B",
-          "name": "Gi4j",
-          "university": ""
+          "name": "中島 教秀",
+          "university": "文4"
         },
         {
           "symbols": "",
           "instrument": "P",
-          "name": "gc KiH2j",
-          "university": ""
+          "name": "吉田 幸生",
+          "university": "基工2"
         },
         {
           "symbols": "",
           "instrument": "G",
-          "name": "N߁iH2j",
-          "university": ""
+          "name": "大隅 康令",
+          "university": "工2"
         },
         {
           "symbols": "",
           "instrument": "MC",
-          "name": "ac NYi2j",
-          "university": ""
+          "name": "大和田 哲雄",
+          "university": "医2"
         }
       ]
     }

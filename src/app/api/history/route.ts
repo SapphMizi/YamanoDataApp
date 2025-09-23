@@ -40,7 +40,13 @@ interface YamanoHistoryData {
 // CSVをパースする関数
 function parseCSV(csvText: string): Record<string, string>[] {
   const lines = csvText.split('\n');
-  const headers = lines[0].split(',');
+  const rawHeaders = lines[0].split(',');
+  // 末尾の空ヘッダ列を除去
+  let lastNonEmpty = rawHeaders.length - 1;
+  while (lastNonEmpty >= 0 && rawHeaders[lastNonEmpty].trim() === '') {
+    lastNonEmpty--;
+  }
+  const headers = rawHeaders.slice(0, lastNonEmpty + 1).map(h => h.trim());
   const data = [];
   
   for (let i = 1; i < lines.length; i++) {
@@ -78,23 +84,15 @@ function parseCSV(csvText: string): Record<string, string>[] {
         return trimmed;
       });
       
-      // デバッグ用：2021年と2023年の行を特別に確認
-      if (cleanedValues[0] === '2021' || cleanedValues[0] === '2023') {
-        console.log(`Line ${i} (${cleanedValues[0]}): ${cleanedValues.length} values, headers: ${headers.length}`);
-      }
+      // ヘッダ数に合わせて切り詰め・パディング
+      const aligned = cleanedValues.slice(0, headers.length);
+      while (aligned.length < headers.length) aligned.push('');
       
-      if (cleanedValues.length >= headers.length) {
-        const row: Record<string, string> = {};
-        headers.forEach((header, index) => {
-          row[header] = cleanedValues[index] || '';
-        });
-        data.push(row);
-      } else {
-        // 値が不足している場合のデバッグ
-        if (cleanedValues[0] === '2021' || cleanedValues[0] === '2023') {
-          console.log(`Insufficient values for ${cleanedValues[0]}: ${cleanedValues.length}/${headers.length}`);
-        }
-      }
+      const row: Record<string, string> = {};
+      headers.forEach((header, index) => {
+        row[header] = aligned[index] || '';
+      });
+      data.push(row);
     } catch (error) {
       // パースエラーの行をスキップ
       console.warn(`CSV line ${i} parse error:`, error);
