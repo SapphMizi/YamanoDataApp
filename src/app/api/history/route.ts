@@ -56,22 +56,32 @@ function parseCSV(csvText: string): Record<string, string>[] {
         const char = line[j];
         
         if (char === '"') {
+          // 引用符の開始または終了
           inQuotes = !inQuotes;
         } else if (char === ',' && !inQuotes) {
+          // 引用符の外でのカンマは区切り文字
           values.push(current.trim());
           current = '';
         } else {
           current += char;
         }
       }
+      // 最後の値を追加
       values.push(current.trim());
       
-      // 引用符を除去
-      const cleanedValues = values.map(value => 
-        value.startsWith('"') && value.endsWith('"') 
-          ? value.slice(1, -1) 
-          : value
-      );
+      // 引用符を除去（開始と終了両方に引用符がある場合のみ）
+      const cleanedValues = values.map(value => {
+        const trimmed = value.trim();
+        if (trimmed.startsWith('"') && trimmed.endsWith('"') && trimmed.length > 1) {
+          return trimmed.slice(1, -1);
+        }
+        return trimmed;
+      });
+      
+      // デバッグ用：2021年と2023年の行を特別に確認
+      if (cleanedValues[0] === '2021' || cleanedValues[0] === '2023') {
+        console.log(`Line ${i} (${cleanedValues[0]}): ${cleanedValues.length} values, headers: ${headers.length}`);
+      }
       
       if (cleanedValues.length >= headers.length) {
         const row: Record<string, string> = {};
@@ -79,6 +89,11 @@ function parseCSV(csvText: string): Record<string, string>[] {
           row[header] = cleanedValues[index] || '';
         });
         data.push(row);
+      } else {
+        // 値が不足している場合のデバッグ
+        if (cleanedValues[0] === '2021' || cleanedValues[0] === '2023') {
+          console.log(`Insufficient values for ${cleanedValues[0]}: ${cleanedValues.length}/${headers.length}`);
+        }
       }
     } catch (error) {
       // パースエラーの行をスキップ
@@ -198,6 +213,8 @@ export async function GET() {
     // 2021年と2023年のデータを特別に確認
     const year2021Data = rawData.filter(row => row.YEAR === '2021');
     const year2023Data = rawData.filter(row => row.YEAR === '2023');
+    console.log('2021年データ数:', year2021Data.length);
+    console.log('2023年データ数:', year2023Data.length);
     
     // データを正規化
     const normalizedData = normalizeData(rawData);
