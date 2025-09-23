@@ -122,14 +122,9 @@ function parseMembers(memberText: string): Member[] {
 
 // データを正規化
 function normalizeData(data: Record<string, string>[]): YamanoHistoryEntry[] {
-  console.log('正規化開始: 総データ数', data.length);
-  
   const result = data.map(row => {
     // 空の行をスキップ
-    if (!row.YEAR || !row.BAND) {
-      console.log('スキップされた行:', row);
-      return null;
-    }
+    if (!row.YEAR || !row.BAND) return null;
     
     // バンド名を統一
     let bandName = row.BAND.trim();
@@ -167,10 +162,6 @@ function normalizeData(data: Record<string, string>[]): YamanoHistoryEntry[] {
     };
   }).filter(row => row !== null);
   
-  console.log('正規化完了: 有効データ数', result.length);
-  const years = result.map(r => r.year).sort();
-  console.log('含まれる年:', years);
-  
   return result;
 }
 
@@ -203,13 +194,10 @@ export async function GET() {
       const year = row.YEAR;
       yearCounts[year] = (yearCounts[year] || 0) + 1;
     });
-    console.log('CSV年別データ数:', yearCounts);
     
     // 2021年と2023年のデータを特別に確認
     const year2021Data = rawData.filter(row => row.YEAR === '2021');
     const year2023Data = rawData.filter(row => row.YEAR === '2023');
-    console.log('2021年データ数:', year2021Data.length);
-    console.log('2023年データ数:', year2023Data.length);
     
     // データを正規化
     const normalizedData = normalizeData(rawData);
