@@ -14,13 +14,14 @@ const supabaseAdmin = createClient(supabaseUrl, supabaseServiceKey, {
 // 年度情報取得
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    const { id } = await params
     const { data, error } = await supabaseAdmin
       .from('year_entries')
       .select('*')
-      .eq('id', params.id)
+      .eq('id', id)
       .single()
 
     if (error) {
@@ -60,9 +61,10 @@ export async function GET(
 // 年度情報更新
 export async function PUT(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    const { id } = await params
     const entry = await request.json()
 
     // フィールド名をデータベーススキーマに合わせて変換
@@ -83,7 +85,7 @@ export async function PUT(
     const { data, error } = await supabaseAdmin
       .from('year_entries')
       .update(dbEntry)
-      .eq('id', params.id)
+      .eq('id', id)
       .select()
       .single()
 
@@ -124,13 +126,14 @@ export async function PUT(
 // 年度情報削除
 export async function DELETE(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    const { id } = await params
     const { error } = await supabaseAdmin
       .from('year_entries')
       .delete()
-      .eq('id', params.id)
+      .eq('id', id)
 
     if (error) {
       console.error('Supabase error:', error)
