@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import { createClient } from '@supabase/supabase-js';
+import { Music } from '@/lib/types';
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
 const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY
@@ -19,7 +20,6 @@ const supabaseAdmin = createClient(supabaseUrl, supabaseServiceKey, {
   }
 })
 
-// データ型定義
 interface Member {
   symbols: string;
   instrument: string;
@@ -33,7 +33,7 @@ interface YamanoHistoryEntry {
   prize: string;
   soloPrize: string;
   imagePath: string;
-  musics: string[];
+  musics: Music[];
   url1: string;
   url2: string;
   members: Member[];
@@ -70,17 +70,37 @@ export async function GET() {
     }
 
     // データを変換
-    const historyEntries: YamanoHistoryEntry[] = (entries || []).map(entry => ({
-      year: entry.year,
-      band: entry.band,
-      prize: entry.prize || '',
-      soloPrize: entry.solo_prize || '',
-      imagePath: entry.image_path || '',
-      musics: entry.musics || [],
-      url1: entry.url1 || '',
-      url2: entry.url2 || '',
-      members: entry.members || []
-    }))
+    const historyEntries: YamanoHistoryEntry[] = (entries || []).map(entry => {
+      // musicsの互換性処理（旧形式の文字列配列から新形式へ変換）
+      let musics: Music[] = [];
+      if (entry.musics) {
+        if (Array.isArray(entry.musics) && entry.musics.length > 0) {
+          // 新形式（オブジェクト配列）かチェック
+          if (typeof entry.musics[0] === 'string') {
+            // 旧形式の文字列配列の場合、新形式に変換
+            musics = entry.musics.map((title: string) => ({
+              title,
+              soloists: []
+            }));
+          } else {
+            // 既に新形式の場合
+            musics = entry.musics as Music[];
+          }
+        }
+      }
+      
+      return {
+        year: entry.year,
+        band: entry.band,
+        prize: entry.prize || '',
+        soloPrize: entry.solo_prize || '',
+        imagePath: entry.image_path || '',
+        musics,
+        url1: entry.url1 || '',
+        url2: entry.url2 || '',
+        members: entry.members || []
+      };
+    })
 
     // 統計情報を計算
     const years = historyEntries.map(entry => entry.year)

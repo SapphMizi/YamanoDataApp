@@ -278,12 +278,49 @@ export default function Home() {
                 {entry.musics.length > 0 && (
                   <div className="mb-4">
                     <h3 className="text-sm font-semibold text-foreground mb-2">演奏楽曲</h3>
-                    <div className="flex flex-wrap gap-1">
-                      {entry.musics.map((music, index) => (
-                        <Badge key={index} variant="outline" className="text-xs p-2">
-                          {music}
-                        </Badge>
-                      ))}
+                    <div className="space-y-2">
+                      {entry.musics.map((music, index) => {
+                        // JSON文字列として保存されているデータを処理
+                        let musicData = music;
+                        if (typeof music === 'string') {
+                          musicData = music;
+                        } else if (typeof music.title === 'string' && music.title.startsWith('{')) {
+                          // titleがJSON文字列の場合、パースする
+                          try {
+                            musicData = JSON.parse(music.title);
+                          } catch {
+                            musicData = music;
+                          }
+                        }
+                        
+                        const title = typeof musicData === 'string' ? musicData : musicData.title;
+                        const soloists = typeof musicData !== 'string' ? musicData.soloists : undefined;
+                        
+                        return (
+                          <div key={index} className="border rounded-lg p-3 bg-card">
+                            <div className="flex flex-col gap-2">
+                              <div className="font-medium text-sm">{title}</div>
+                              {soloists && soloists.length > 0 && (
+                                <div className="flex flex-wrap gap-2 items-center">
+                                  <span className="text-xs text-muted-foreground">ソリスト:</span>
+                                  {soloists.map((soloist: any, soloistIndex: number) => (
+                                    <div key={soloistIndex} className="flex items-center gap-1">
+                                      <Badge 
+                                        variant="secondary" 
+                                        className="text-xs"
+                                      >
+                                        {soloist.memberName}
+                                        {soloist.instrument && ` (${soloist.instrument})`}
+                                        {soloist.isFeatured && " ⭐"}
+                                      </Badge>
+                                    </div>
+                                  ))}
+                                </div>
+                              )}
+                            </div>
+                          </div>
+                        );
+                      })}
                     </div>
                   </div>
                 )}

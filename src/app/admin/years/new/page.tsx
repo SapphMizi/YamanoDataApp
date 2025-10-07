@@ -4,12 +4,14 @@ import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { ProtectedRoute, useAuth } from '@/lib/auth'
 import { YearEntryService } from '@/lib/database'
-import { YearEntry, Member } from '@/lib/types'
+import { YearEntry, Member, Music, Soloist } from '@/lib/types'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Badge } from '@/components/ui/badge'
-import { ArrowLeft, Plus, Trash2, Save, Home } from 'lucide-react'
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
+import { Checkbox } from '@/components/ui/checkbox'
+import { ArrowLeft, Plus, Trash2, Save, Home, X } from 'lucide-react'
 import Link from 'next/link'
 
 function NewYearPageContent() {
@@ -22,7 +24,7 @@ function NewYearPageContent() {
     prize: '',
     soloPrize: '',
     imagePath: '',
-    musics: [''],
+    musics: [{ title: '', soloists: [] }] as Music[],
     url1: '',
     url2: '',
     members: [] as Member[]
@@ -34,16 +36,54 @@ function NewYearPageContent() {
 
   const handleMusicChange = (index: number, value: string) => {
     const newMusics = [...formData.musics]
-    newMusics[index] = value
+    newMusics[index] = { ...newMusics[index], title: value }
     setFormData(prev => ({ ...prev, musics: newMusics }))
   }
 
   const addMusic = () => {
-    setFormData(prev => ({ ...prev, musics: [...prev.musics, ''] }))
+    setFormData(prev => ({ ...prev, musics: [...prev.musics, { title: '', soloists: [] }] }))
   }
 
   const removeMusic = (index: number) => {
     const newMusics = formData.musics.filter((_, i) => i !== index)
+    setFormData(prev => ({ ...prev, musics: newMusics }))
+  }
+
+  const addSoloistToMusic = (musicIndex: number, memberIndex: number) => {
+    const member = formData.members[memberIndex]
+    if (!member || !member.name) return
+
+    const newMusics = [...formData.musics]
+    const newSoloist: Soloist = {
+      memberId: `${memberIndex}`,
+      memberName: member.name,
+      instrument: member.instrument,
+      isFeatured: false
+    }
+    newMusics[musicIndex] = {
+      ...newMusics[musicIndex],
+      soloists: [...newMusics[musicIndex].soloists, newSoloist]
+    }
+    setFormData(prev => ({ ...prev, musics: newMusics }))
+  }
+
+  const removeSoloistFromMusic = (musicIndex: number, soloistIndex: number) => {
+    const newMusics = [...formData.musics]
+    newMusics[musicIndex] = {
+      ...newMusics[musicIndex],
+      soloists: newMusics[musicIndex].soloists.filter((_, i) => i !== soloistIndex)
+    }
+    setFormData(prev => ({ ...prev, musics: newMusics }))
+  }
+
+  const toggleSoloistFeatured = (musicIndex: number, soloistIndex: number) => {
+    const newMusics = [...formData.musics]
+    const soloists = [...newMusics[musicIndex].soloists]
+    soloists[soloistIndex] = {
+      ...soloists[soloistIndex],
+      isFeatured: !soloists[soloistIndex].isFeatured
+    }
+    newMusics[musicIndex] = { ...newMusics[musicIndex], soloists }
     setFormData(prev => ({ ...prev, musics: newMusics }))
   }
 
@@ -79,7 +119,7 @@ function NewYearPageContent() {
         prize: formData.prize || undefined,
         soloPrize: formData.soloPrize || undefined,
         imagePath: formData.imagePath || undefined,
-        musics: formData.musics.filter(music => music.trim() !== ''),
+        musics: formData.musics.filter(music => music.title.trim() !== ''),
         url1: formData.url1 || undefined,
         url2: formData.url2 || undefined,
         members: formData.members.filter(member => member.name.trim() !== '')
@@ -185,24 +225,117 @@ function NewYearPageContent() {
               <CardHeader>
                 <CardTitle>演奏楽曲</CardTitle>
               </CardHeader>
-              <CardContent className="space-y-4">
-                {formData.musics.map((music, index) => (
-                  <div key={index} className="flex space-x-2">
-                    <Input
-                      value={music}
-                      onChange={(e) => handleMusicChange(index, e.target.value)}
-                      placeholder="楽曲名を入力"
-                    />
-                    {formData.musics.length > 1 && (
-                      <Button
-                        type="button"
-                        variant="outline"
-                        size="sm"
-                        onClick={() => removeMusic(index)}
-                      >
-                        <Trash2 className="w-4 h-4" />
-                      </Button>
-                    )}
+              <CardContent className="space-y-6">
+                {formData.musics.map((music, musicIndex) => (
+                  <div key={musicIndex} className="border rounded-lg p-4 space-y-4">
+                    <div className="flex space-x-2">
+                      <Input
+                        value={music.title}
+                        onChange={(e) => handleMusicChange(musicIndex, e.target.value)}
+                        placeholder="楽曲名を入力"
+                        className="flex-1"
+                      />
+                      {formData.musics.length > 1 && (
+                        <Button
+                          type="button"
+                          variant="outline"
+                          size="sm"
+                          onClick={() => removeMusic(musicIndex)}
+                        >
+                          <Trash2 className="w-4 h-4" />
+                        </Button>
+                      )}
+                    </div>
+
+                    {/* ソリスト情報 */}
+                    <div className="space-y-3 pl-4 border-l-2">
+                      <label className="text-sm font-medium">ソリスト</label>
+                      
+                      <div className="space-y-2">
+                        {/* 選択済みソリスト */}
+                        {music.soloists && music.soloists.map((soloist, soloistIndex) => (
+                          <div key={soloistIndex} className="flex items-center gap-2">
+                            <Select
+                              value={soloist.memberId}
+                              onValueChange={(value) => {
+                                const member = formData.members[parseInt(value)]
+                                if (member) {
+                                  const newMusics = [...formData.musics]
+                                  newMusics[musicIndex].soloists[soloistIndex] = {
+                                    memberId: value,
+                                    memberName: member.name,
+                                    instrument: member.instrument,
+                                    isFeatured: soloist.isFeatured
+                                  }
+                                  setFormData(prev => ({ ...prev, musics: newMusics }))
+                                }
+                              }}
+                            >
+                              <SelectTrigger className="flex-1 h-9">
+                                <SelectValue placeholder="メンバーを選択" />
+                              </SelectTrigger>
+                              <SelectContent>
+                                {formData.members.map((member, memberIndex) => (
+                                  member.name && (
+                                    <SelectItem key={memberIndex} value={memberIndex.toString()}>
+                                      {member.name} ({member.instrument})
+                                    </SelectItem>
+                                  )
+                                ))}
+                              </SelectContent>
+                            </Select>
+                            <div className="flex items-center gap-2">
+                              <Checkbox
+                                id={`featured-${musicIndex}-${soloistIndex}`}
+                                checked={soloist.isFeatured}
+                                onCheckedChange={() => toggleSoloistFeatured(musicIndex, soloistIndex)}
+                              />
+                              <label
+                                htmlFor={`featured-${musicIndex}-${soloistIndex}`}
+                                className="text-xs whitespace-nowrap cursor-pointer"
+                              >
+                                feat.
+                              </label>
+                            </div>
+                            <Button
+                              type="button"
+                              variant="ghost"
+                              size="sm"
+                              onClick={() => removeSoloistFromMusic(musicIndex, soloistIndex)}
+                            >
+                              <X className="w-4 h-4" />
+                            </Button>
+                          </div>
+                        ))}
+                        
+                        {/* 新規ソリスト追加用の選択欄（常に表示） */}
+                        {formData.members.length > 0 && (
+                          <div className="flex items-center gap-2">
+                            <Select
+                              value=""
+                              onValueChange={(value) => {
+                                if (value) {
+                                  addSoloistToMusic(musicIndex, parseInt(value))
+                                }
+                              }}
+                            >
+                              <SelectTrigger className="flex-1 h-9">
+                                <SelectValue placeholder="+ ソリストを追加" />
+                              </SelectTrigger>
+                              <SelectContent>
+                                {formData.members.map((member, memberIndex) => (
+                                  member.name && (
+                                    <SelectItem key={memberIndex} value={memberIndex.toString()}>
+                                      {member.name} ({member.instrument})
+                                    </SelectItem>
+                                  )
+                                ))}
+                              </SelectContent>
+                            </Select>
+                          </div>
+                        )}
+                      </div>
+                    </div>
                   </div>
                 ))}
                 <Button type="button" variant="outline" onClick={addMusic}>

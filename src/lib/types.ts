@@ -8,6 +8,18 @@ export interface Member {
   university?: string
 }
 
+export interface Soloist {
+  memberId?: string // メンバーID（メンバー配列内のインデックスまたは識別子）
+  memberName: string // メンバー名
+  instrument?: string // 楽器名
+  isFeatured: boolean // フィーチャーソリストかどうか
+}
+
+export interface Music {
+  title: string
+  soloists: Soloist[]
+}
+
 export interface YearEntry {
   id?: string
   year: number
@@ -15,7 +27,7 @@ export interface YearEntry {
   prize?: string
   soloPrize?: string
   imagePath?: string
-  musics: string[]
+  musics: Music[]
   url1?: string
   url2?: string
   members: Member[]

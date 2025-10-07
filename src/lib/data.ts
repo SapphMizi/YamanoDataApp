@@ -1,22 +1,9 @@
-// データ型定義
-export interface Member {
-  symbols: string;
-  instrument: string;
-  name: string;
-  university: string;
-}
+// データ型定義をインポート
+import { YearEntry as YamanoHistoryEntry, Member, Music } from './types';
 
-export interface YamanoHistoryEntry {
-  year: number;
-  band: string;
-  prize: string;
-  soloPrize: string;
-  imagePath: string;
-  musics: string[];
-  url1: string;
-  url2: string;
-  members: Member[];
-}
+// データ型の再エクスポート
+export type { Member, Music };
+export type { YamanoHistoryEntry };
 
 export interface YamanoHistoryData {
   stats: {

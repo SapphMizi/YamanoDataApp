@@ -8,7 +8,7 @@ CREATE TABLE year_entries (
   prize TEXT,
   solo_prize TEXT,
   image_path TEXT,
-  musics TEXT[] DEFAULT '{}',
+  musics JSONB DEFAULT '[]',  -- 楽曲情報をJSONBで保存（タイトルとソリスト情報を含む）
   url1 TEXT,
   url2 TEXT,
   members JSONB DEFAULT '[]',
