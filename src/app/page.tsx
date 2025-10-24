@@ -11,6 +11,7 @@ import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible';
 import { Settings, ChevronDown, ChevronRight } from 'lucide-react';
+import { parseJsonSafely, parseArraySafely } from '@/lib/json-utils';
 
 export default function Home() {
   const [data, setData] = useState<YamanoHistoryData | null>(null);
@@ -47,6 +48,19 @@ export default function Home() {
         
         const data: YamanoHistoryData = await response.json();
         console.log('Data received:', data);
+        console.log('Data entries count:', data.data?.length || 0);
+        
+        // 各エントリの楽曲データをログ出力
+        if (data.data) {
+          data.data.forEach((entry, index) => {
+            console.log(`Entry ${index} (${entry.year} ${entry.band}):`, {
+              musics: entry.musics,
+              musicsType: typeof entry.musics,
+              musicsLength: Array.isArray(entry.musics) ? entry.musics.length : 'not array'
+            });
+          });
+        }
+        
         setData(data);
         setFilteredData(data.data);
         
@@ -279,22 +293,59 @@ export default function Home() {
                   <div className="mb-4">
                     <h3 className="text-sm font-semibold text-foreground mb-2">演奏楽曲</h3>
                     <div className="space-y-2">
-                      {entry.musics.map((music, index) => {
-                        // JSON文字列として保存されているデータを処理
-                        let musicData = music;
-                        if (typeof music === 'string') {
-                          musicData = music;
-                        } else if (typeof music.title === 'string' && music.title.startsWith('{')) {
-                          // titleがJSON文字列の場合、パースする
-                          try {
-                            musicData = JSON.parse(music.title);
-                          } catch {
-                            musicData = music;
+                      {parseArraySafely(entry.musics).map((music, index) => {
+                        // 楽曲データの処理 - 二重エスケープされたJSONも適切に処理
+                        console.log(`Processing music ${index} for entry ${entry.year} ${entry.band}:`, {
+                          originalMusic: music,
+                          musicType: typeof music,
+                          musicValue: music
+                        });
+                        
+                        let title = '';
+                        let soloists: any[] = [];
+                        
+                        try {
+                          if (music && typeof music === 'object' && music.title) {
+                            // オブジェクト形式の場合
+                            console.log(`Music ${index} is object with title:`, music.title);
+                            
+                            // titleがJSON文字列かどうかをチェック
+                            if (typeof music.title === 'string' && music.title.startsWith('{')) {
+                              try {
+                                const parsedTitle = JSON.parse(music.title);
+                                console.log(`Parsed title JSON:`, parsedTitle);
+                                if (parsedTitle && typeof parsedTitle === 'object' && parsedTitle.title) {
+                                  title = parsedTitle.title || '';
+                                  soloists = Array.isArray(parsedTitle.soloists) ? parsedTitle.soloists : [];
+                                } else {
+                                  title = music.title;
+                                  soloists = Array.isArray(music.soloists) ? music.soloists : [];
+                                }
+                              } catch (parseError) {
+                                console.log(`Failed to parse title JSON, using as string:`, music.title);
+                                title = music.title;
+                                soloists = Array.isArray(music.soloists) ? music.soloists : [];
+                              }
+                            } else {
+                              // titleが通常の文字列の場合
+                              title = music.title || '';
+                              soloists = Array.isArray(music.soloists) ? music.soloists : [];
+                            }
+                          } else if (typeof music === 'string') {
+                            // 文字列形式の場合（旧形式）
+                            console.log(`Music ${index} is string:`, music);
+                            title = music;
+                          } else {
+                            // 予期しない形式の場合
+                            console.warn('Unexpected music data format:', music);
+                            title = String(music) || '';
                           }
+                        } catch (error) {
+                          console.error('Error processing music data:', error, music);
+                          title = '楽曲データエラー';
                         }
                         
-                        const title = typeof musicData === 'string' ? musicData : musicData.title;
-                        const soloists = typeof musicData !== 'string' ? musicData.soloists : undefined;
+                        console.log(`Final result for music ${index}:`, { title, soloists });
                         
                         return (
                           <div key={index} className="border rounded-lg p-3 bg-card">
@@ -303,18 +354,38 @@ export default function Home() {
                               {soloists && soloists.length > 0 && (
                                 <div className="flex flex-wrap gap-2 items-center">
                                   <span className="text-xs text-muted-foreground">ソリスト:</span>
-                                  {soloists.map((soloist: any, soloistIndex: number) => (
-                                    <div key={soloistIndex} className="flex items-center gap-1">
-                                      <Badge 
-                                        variant="secondary" 
-                                        className="text-xs"
-                                      >
-                                        {soloist.memberName}
-                                        {soloist.instrument && ` (${soloist.instrument})`}
-                                        {soloist.isFeatured && " ⭐"}
-                                      </Badge>
-                                    </div>
-                                  ))}
+                                  {soloists.map((soloist: any, soloistIndex: number) => {
+                                    // ソリストデータの安全な処理
+                                    let soloistName = '';
+                                    let soloistInstrument = '';
+                                    let isFeatured = false;
+                                    
+                                    try {
+                                      if (soloist && typeof soloist === 'object') {
+                                        soloistName = soloist.memberName || soloist.name || '';
+                                        soloistInstrument = soloist.instrument || '';
+                                        isFeatured = Boolean(soloist.isFeatured);
+                                      } else {
+                                        soloistName = String(soloist) || '';
+                                      }
+                                    } catch (error) {
+                                      console.error('Error processing soloist data:', error, soloist);
+                                      soloistName = 'ソリストデータエラー';
+                                    }
+                                    
+                                    return (
+                                      <div key={soloistIndex} className="flex items-center gap-1">
+                                        <Badge 
+                                          variant="secondary" 
+                                          className="text-xs"
+                                        >
+                                          {soloistName}
+                                          {soloistInstrument && ` (${soloistInstrument})`}
+                                          {isFeatured && " ⭐"}
+                                        </Badge>
+                                      </div>
+                                    );
+                                  })}
                                 </div>
                               )}
                             </div>

@@ -24,6 +24,7 @@ export class YearEntryService {
         if (response.status === 404) return null
         throw new Error('Failed to fetch year entry')
       }
+      
       return await response.json()
     } catch (error) {
       console.error('Failed to fetch year entry:', error)

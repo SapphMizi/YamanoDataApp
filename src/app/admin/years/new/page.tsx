@@ -113,18 +113,27 @@ function NewYearPageContent() {
     setLoading(true)
 
     try {
+      // musicsデータを適切に処理
+      const processedMusics = formData.musics
+        .filter(music => music.title.trim() !== '')
+        .map(music => ({
+          title: music.title,
+          soloists: music.soloists || []
+        }))
+
       const yearEntry: Omit<YearEntry, 'id' | 'created_at' | 'updated_at'> = {
         year: formData.year,
         band: formData.band,
         prize: formData.prize || undefined,
         soloPrize: formData.soloPrize || undefined,
         imagePath: formData.imagePath || undefined,
-        musics: formData.musics.filter(music => music.title.trim() !== ''),
+        musics: processedMusics,
         url1: formData.url1 || undefined,
         url2: formData.url2 || undefined,
         members: formData.members.filter(member => member.name.trim() !== '')
       }
 
+      console.log('Creating year entry with music data:', processedMusics)
       await YearEntryService.create(yearEntry)
       router.push('/admin/years')
     } catch (error) {

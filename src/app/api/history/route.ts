@@ -17,6 +17,9 @@ const supabaseAdmin = createClient(supabaseUrl, supabaseServiceKey, {
   auth: {
     autoRefreshToken: false,
     persistSession: false
+  },
+  db: {
+    schema: 'public'
   }
 })
 
@@ -74,18 +77,45 @@ export async function GET() {
       // musicsの互換性処理（旧形式の文字列配列から新形式へ変換）
       let musics: Music[] = [];
       if (entry.musics) {
-        if (Array.isArray(entry.musics) && entry.musics.length > 0) {
-          // 新形式（オブジェクト配列）かチェック
-          if (typeof entry.musics[0] === 'string') {
-            // 旧形式の文字列配列の場合、新形式に変換
-            musics = entry.musics.map((title: string) => ({
-              title,
-              soloists: []
-            }));
-          } else {
-            // 既に新形式の場合
-            musics = entry.musics as Music[];
+        try {
+          // JSONBフィールドから取得したデータの処理
+          let musicsData = entry.musics;
+          if (typeof musicsData === 'string') {
+            try {
+              musicsData = JSON.parse(musicsData);
+            } catch (parseError) {
+              console.error('Failed to parse musics JSON:', parseError);
+              musicsData = [];
+            }
           }
+          
+          if (Array.isArray(musicsData) && musicsData.length > 0) {
+            musics = musicsData.map((musicItem: any) => {
+              if (typeof musicItem === 'string') {
+                // 旧形式の文字列の場合、新形式に変換
+                return {
+                  title: musicItem,
+                  soloists: []
+                };
+              } else if (musicItem && typeof musicItem === 'object') {
+                // 新形式のオブジェクトの場合、安全に処理
+                return {
+                  title: musicItem.title || '',
+                  soloists: Array.isArray(musicItem.soloists) ? musicItem.soloists : []
+                };
+              } else {
+                // 予期しない形式の場合
+                console.warn('Unexpected music item format:', musicItem);
+                return {
+                  title: String(musicItem) || '',
+                  soloists: []
+                };
+              }
+            });
+          }
+        } catch (error) {
+          console.error('Error processing musics data for entry:', entry.id, error);
+          musics = [];
         }
       }
       
@@ -98,7 +128,7 @@ export async function GET() {
         musics,
         url1: entry.url1 || '',
         url2: entry.url2 || '',
-        members: entry.members || []
+        members: typeof entry.members === 'string' ? JSON.parse(entry.members) : (entry.members || [])
       };
     })
 

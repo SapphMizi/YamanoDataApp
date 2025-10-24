@@ -35,8 +35,11 @@ function EditYearPageContent() {
     members: [] as Member[]
   })
 
+  console.log(formData)
+
   useEffect(() => {
     if (yearId) {
+      console.log('yearId', yearId)
       loadYearEntry()
     }
   }, [yearId])
@@ -173,18 +176,27 @@ function EditYearPageContent() {
     setSaving(true)
 
     try {
+      // musicsデータを適切に処理
+      const processedMusics = formData.musics
+        .filter(music => music.title.trim() !== '')
+        .map(music => ({
+          title: music.title,
+          soloists: music.soloists || []
+        }))
+
       const updateData: Partial<YearEntry> = {
         year: formData.year,
         band: formData.band,
         prize: formData.prize || undefined,
         soloPrize: formData.soloPrize || undefined,
         imagePath: formData.imagePath || undefined,
-        musics: formData.musics.filter(music => music.title.trim() !== ''),
+        musics: processedMusics,
         url1: formData.url1 || undefined,
         url2: formData.url2 || undefined,
         members: formData.members.filter(member => member.name.trim() !== '')
       }
 
+      console.log('Saving music data:', processedMusics)
       await YearEntryService.update(yearId, updateData)
       router.push('/admin/years')
     } catch (error) {
@@ -194,6 +206,7 @@ function EditYearPageContent() {
       setSaving(false)
     }
   }
+
 
   if (loading) {
     return (
