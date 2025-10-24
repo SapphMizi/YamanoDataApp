@@ -11,13 +11,15 @@ import { Input } from '@/components/ui/input'
 import { Badge } from '@/components/ui/badge'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { Checkbox } from '@/components/ui/checkbox'
-import { ArrowLeft, Plus, Trash2, Save, Home, X } from 'lucide-react'
+import { ArrowLeft, Plus, Trash2, Save, Home, X, Upload } from 'lucide-react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 function NewYearPageContent() {
   const { user } = useAuth()
   const router = useRouter()
   const [loading, setLoading] = useState(false)
+  const [uploading, setUploading] = useState(false)
   const [formData, setFormData] = useState({
     year: new Date().getFullYear(),
     band: 'The New Wave Jazz Orchestra',
@@ -106,6 +108,34 @@ function NewYearPageContent() {
   const removeMember = (index: number) => {
     const newMembers = formData.members.filter((_, i) => i !== index)
     setFormData(prev => ({ ...prev, members: newMembers }))
+  }
+
+  const handleImageUpload = async (event: React.ChangeEvent<HTMLInputElement>) => {
+    const file = event.target.files?.[0]
+    if (!file) return
+
+    setUploading(true)
+    try {
+      const formData = new FormData()
+      formData.append('file', file)
+
+      const response = await fetch('/api/upload/image', {
+        method: 'POST',
+        body: formData,
+      })
+
+      if (!response.ok) {
+        throw new Error('Upload failed')
+      }
+
+      const result = await response.json()
+      setFormData(prev => ({ ...prev, imagePath: result.url }))
+    } catch (error) {
+      console.error('Upload error:', error)
+      alert('画像のアップロードに失敗しました')
+    } finally {
+      setUploading(false)
+    }
   }
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -219,12 +249,57 @@ function NewYearPageContent() {
                   </div>
                 </div>
                 <div className="space-y-2">
-                  <label className="text-sm font-medium">画像パス</label>
-                  <Input
-                    value={formData.imagePath}
-                    onChange={(e) => handleInputChange('imagePath', e.target.value)}
-                    placeholder="例: NWJO_pics/2024.jpg"
-                  />
+                  <label className="text-sm font-medium">画像</label>
+                  <div className="space-y-3">
+                    {/* 現在の画像表示 */}
+                    {formData.imagePath && (
+                      <div className="relative w-32 h-32 border rounded-lg overflow-hidden">
+                        <Image
+                          src={formData.imagePath}
+                          alt="Uploaded image"
+                          fill
+                          className="object-cover"
+                        />
+                      </div>
+                    )}
+                    
+                    {/* 画像アップロード */}
+                    <div className="space-y-2">
+                      <input
+                        type="file"
+                        accept="image/*"
+                        onChange={handleImageUpload}
+                        className="hidden"
+                        id="image-upload"
+                        disabled={uploading}
+                      />
+                      <label
+                        htmlFor="image-upload"
+                        className="flex items-center gap-2 px-4 py-2 border border-dashed border-gray-300 rounded-lg cursor-pointer hover:bg-gray-50 disabled:opacity-50"
+                      >
+                        <Upload className="w-4 h-4" />
+                        {uploading ? 'アップロード中...' : '画像をアップロード'}
+                      </label>
+                      
+                      {/* 手動入力も可能 */}
+                      <div className="flex items-center gap-2">
+                        <Input
+                          value={formData.imagePath}
+                          onChange={(e) => handleInputChange('imagePath', e.target.value)}
+                          placeholder="例: /uploads/images/2024.jpg または NWJO_pics/2024.jpg"
+                          className="flex-1"
+                        />
+                        <Button
+                          type="button"
+                          variant="outline"
+                          size="sm"
+                          onClick={() => setFormData(prev => ({ ...prev, imagePath: '' }))}
+                        >
+                          <X className="w-4 h-4" />
+                        </Button>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </CardContent>
             </Card>
@@ -303,7 +378,7 @@ function NewYearPageContent() {
                                 htmlFor={`featured-${musicIndex}-${soloistIndex}`}
                                 className="text-xs whitespace-nowrap cursor-pointer"
                               >
-                                feat.
+                                フィーチャー
                               </label>
                             </div>
                             <Button

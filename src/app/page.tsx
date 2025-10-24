@@ -266,7 +266,7 @@ export default function Home() {
                   <div className="w-full h-40 relative rounded-lg overflow-hidden shadow-md bg-muted flex items-center justify-center">
                     {entry.imagePath ? (
                       <Image
-                        src={`/${entry.imagePath}`}
+                        src={entry.imagePath.startsWith('/') ? entry.imagePath : `/${entry.imagePath}`}
                         alt={`${entry.year}年 ${entry.band}`}
                         width={160}
                         height={160}
@@ -381,7 +381,7 @@ export default function Home() {
                                         >
                                           {soloistName}
                                           {soloistInstrument && ` (${soloistInstrument})`}
-                                          {isFeatured && " ⭐"}
+                                          {isFeatured && "（フィーチャー）"}
                                         </Badge>
                                       </div>
                                     );
